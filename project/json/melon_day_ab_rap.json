@@ -1,0 +1,806 @@
+{
+	"entries": [
+		{
+			"artist": "Post Malone",
+			"title": "Goodbyes (Feat. Young Thug)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/03/747/10303747_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Goodbyes - 페이지 이동",
+			"rank": 1,
+			"videoId": "eRhlRNkEttw"
+		},
+		{
+			"artist": "Post Malone, Swae Lee",
+			"title": "Sunflower (Spider-Man: Into the Spider-Verse)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/33/384/10233384_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture) - 페이지 이동",
+			"rank": 2,
+			"videoId": "ApXoWvfEYVU"
+		},
+		{
+			"artist": "Charlie Puth, Wiz Khalifa",
+			"title": "See You Again (폴 워커 추모 엔딩곡)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/023/09/376/2309376_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "분노의 질주: 더 세븐 OST - 페이지 이동",
+			"rank": 3,
+			"videoId": "RgKAFK5djSk"
+		},
+		{
+			"artist": "DJ Khaled",
+			"title": "I`m The One (Feat. Justin Bieber, Quavo, Chance The Rapper & Lil Wayne)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/38/376/10038376_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Grateful - 페이지 이동",
+			"rank": 4,
+			"videoId": "weeI1G46q0o"
+		},
+		{
+			"artist": "Lil Nas X",
+			"title": "Old Town Road",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/64/723/10264723_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Old Town Road - 페이지 이동",
+			"rank": 5,
+			"videoId": "7ysFgElQtjI"
+		},
+		{
+			"artist": "Post Malone",
+			"title": "Better Now",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/96/328/10096328_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "beerbongs & bentleys - 페이지 이동",
+			"rank": 6,
+			"videoId": "eUDPFfu38iw"
+		},
+		{
+			"artist": "DJ Khaled",
+			"title": "No Brainer (Feat. Justin Bieber, Chance the Rapper & Quavo)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/89/386/10189386_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Father Of Asahd - 페이지 이동",
+			"rank": 7,
+			"videoId": "kxloC1MKTpg"
+		},
+		{
+			"artist": "Post Malone",
+			"title": "Wow.",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/36/053/10236053_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Wow. - 페이지 이동",
+			"rank": 8,
+			"videoId": "D0i23wZ0IeE"
+		},
+		{
+			"artist": "Lil Nas X, RM",
+			"title": "Old Town Road (Seoul Town Road Remix) feat. RM of BTS (방탄소년단)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/11/071/10311071_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Old Town Road (Seoul Town Road Remix) feat. RM of BTS (방탄소년단) - 페이지 이동",
+			"rank": 9,
+			"videoId": "cy4V8UERbvs"
+		},
+		{
+			"artist": "Post Malone",
+			"title": "Psycho (Feat. Ty Dolla $ign)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/41/641/10141641_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Psycho - 페이지 이동",
+			"rank": 10,
+			"videoId": "MGYJuETPQEg"
+		},
+		{
+			"artist": "Lil Tecca",
+			"title": "Ransom",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/94/041/10294041_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Ransom - 페이지 이동",
+			"rank": 11,
+			"videoId": "XLofd-v_Bas"
+		},
+		{
+			"artist": "Lil Nas X",
+			"title": "Old Town Road (Remix) (feat. Billy Ray Cyrus)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/71/116/10271116_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Old Town Road (Remix) (feat. Billy Ray Cyrus) - 페이지 이동",
+			"rank": 12,
+			"videoId": "w2Ov5jzm3j8"
+		},
+		{
+			"artist": "Will Smith",
+			"title": "Friend Like Me (End Title) (Feat. DJ Khaled)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/89/912/10289912_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "알라딘 - 페이지 이동",
+			"rank": 13,
+			"videoId": "4PofrJqEQv0"
+		},
+		{
+			"artist": "Lil Dicky",
+			"title": "Earth",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/76/204/10276204_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Earth - 페이지 이동",
+			"rank": 14,
+			"videoId": "tmkvPybo2mk"
+		},
+		{
+			"artist": "Travis Scott",
+			"title": "SICKO MODE",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/91/224/10191224_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "ASTROWORLD - 페이지 이동",
+			"rank": 15,
+			"videoId": "d-JBBNg8YKs"
+		},
+		{
+			"artist": "DJ Khaled",
+			"title": "Jealous (feat. Chris Brown, Lil Wayne & Big Sean)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/89/386/10189386_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Father Of Asahd - 페이지 이동",
+			"rank": 16,
+			"videoId": "Dl37B3zlJ30"
+		},
+		{
+			"artist": "Post Malone",
+			"title": "Congratulations (Feat. Quavo)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/027/10/254/2710254_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Stoney (Deluxe) - 페이지 이동",
+			"rank": 17,
+			"videoId": "IFRbumdozFE"
+		},
+		{
+			"artist": "Ayo & Teo",
+			"title": "Rolex",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/59/868/10059868_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Rolex - 페이지 이동",
+			"rank": 18,
+			"videoId": "zKCrSN9oXgQ"
+		},
+		{
+			"artist": "Machine Gun Kelly, Camila Cabello",
+			"title": "Bad Things",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/06/391/10006391_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "bloom (Re-issue) - 페이지 이동",
+			"rank": 19,
+			"videoId": "QpbQ4I3Eidg"
+		},
+		{
+			"artist": "Post Malone",
+			"title": "rockstar (Feat. 21 Savage)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/96/328/10096328_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "beerbongs & bentleys - 페이지 이동",
+			"rank": 20,
+			"videoId": "4GFAZBKZVJY"
+		},
+		{
+			"artist": "XXXTENTACION",
+			"title": "SAD!",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/45/642/10145642_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "SAD! - 페이지 이동",
+			"rank": 21,
+			"videoId": "pgN-vvVVxMA"
+		},
+		{
+			"artist": "Tyga",
+			"title": "Taste (Feat. Offset)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/69/888/10169888_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Taste (Feat. Offset) - 페이지 이동",
+			"rank": 22,
+			"videoId": "LjxulQ1bEWg"
+		},
+		{
+			"artist": "Lil Pump",
+			"title": "Gucci Gang",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/92/320/10092320_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Lil Pump - 페이지 이동",
+			"rank": 23,
+			"videoId": "9alXo1OXTec"
+		},
+		{
+			"artist": "Post Malone",
+			"title": "Deja Vu (Feat. Justin Bieber)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/027/10/254/2710254_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Stoney (Deluxe) - 페이지 이동",
+			"rank": 24,
+			"videoId": "PP48-FKUvDc"
+		},
+		{
+			"artist": "Cardi B, Bruno Mars",
+			"title": "Please Me",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/51/801/10251801_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Please Me - 페이지 이동",
+			"rank": 25,
+			"videoId": "4FitbJ3oqww"
+		},
+		{
+			"artist": "Lil Dicky",
+			"title": "Freaky Friday (Feat. Chris Brown)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/47/744/10147744_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Freaky Friday (Feat. Chris Brown) - 페이지 이동",
+			"rank": 26,
+			"videoId": "8SgmWihcCYM"
+		},
+		{
+			"artist": "Young Thug",
+			"title": "The London (feat. J. Cole & Travis Scott)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/90/214/10290214_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "The London (feat. J. Cole & Travis Scott) - 페이지 이동",
+			"rank": 27,
+			"videoId": "G8Hp-AKrfm0"
+		},
+		{
+			"artist": "Eminem",
+			"title": "Love The Way You Lie (Feat. Rihanna)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/009/31/351/931351_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Recovery - 페이지 이동",
+			"rank": 28,
+			"videoId": "y781eoXnfvc"
+		},
+		{
+			"artist": "B.o.B",
+			"title": "Nothin` On You (Feat. Bruno Mars)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/008/29/156/829156_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Nothin` On You (Feat. Bruno Mars) - 페이지 이동",
+			"rank": 29,
+			"videoId": "u3lz7oSd6JE"
+		},
+		{
+			"artist": "Will Smith",
+			"title": "Friend Like Me (End Title) (Feat. DJ Khaled)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/88/448/10288448_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Aladdin (Original Motion Picture Soundtrack) - 페이지 이동",
+			"rank": 30,
+			"videoId": "4PofrJqEQv0"
+		},
+		{
+			"artist": "Nas",
+			"title": "Nas Is Like",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/000/44/317/44317_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "I Am... - 페이지 이동",
+			"rank": 31,
+			"videoId": "3Agq09NtjR4"
+		},
+		{
+			"artist": "Amine",
+			"title": "Caroline",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/027/09/060/2709060_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Good For You - 페이지 이동",
+			"rank": 32,
+			"videoId": "OcabYKr9Egk"
+		},
+		{
+			"artist": "Lizzo",
+			"title": "Truth Hurts",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/97/751/10097751_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Truth Hurts - 페이지 이동",
+			"rank": 33,
+			"videoId": "Zo7QeATvJ7c"
+		},
+		{
+			"artist": "Lil Pump",
+			"title": "Esskeetit",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/57/711/10157711_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Esskeetit - 페이지 이동",
+			"rank": 34,
+			"videoId": "QYPwOAMpFFs"
+		},
+		{
+			"artist": "Flo Rida",
+			"title": "GDFR (Feat. Sage The Gemini And Lookas)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/022/84/440/2284440_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "GDFR (Feat. Sage The Gemini And Lookas) - 페이지 이동",
+			"rank": 35,
+			"videoId": "iAVTU9radSE"
+		},
+		{
+			"artist": "Kendrick Lamar, The Weeknd",
+			"title": "Pray For Me",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/25/810/10125810_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Black Panther The Album Music From And Inspired By - 페이지 이동",
+			"rank": 36,
+			"videoId": "XR7Ev14vUh8"
+		},
+		{
+			"artist": "Eminem",
+			"title": "Lose Yourself",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/003/11/136/311136_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Curtain Call: The Hits (2 Disc) - 페이지 이동",
+			"rank": 37,
+			"videoId": "xaVG_nziZlo"
+		},
+		{
+			"artist": "XXXTENTACION",
+			"title": "changes",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/49/287/10149287_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "? - 페이지 이동",
+			"rank": 38,
+			"videoId": "f0bbDFRYD_A"
+		},
+		{
+			"artist": "Kendrick Lamar",
+			"title": "HUMBLE.",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/51/191/10051191_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "DAMN. - 페이지 이동",
+			"rank": 39,
+			"videoId": "UnM_yjD555s"
+		},
+		{
+			"artist": "Eminem",
+			"title": "Without Me (영화 수어사이드 스쿼드 삽입곡)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/000/24/633/24633_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "The Eminem Show - 페이지 이동",
+			"rank": 40,
+			"videoId": "b_9c1t500DI"
+		},
+		{
+			"artist": "Alan Walker, A$AP Rocky",
+			"title": "Live Fast (PUBGM)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/10/683/10310683_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Live Fast (PUBGM) (배틀그라운드 모바일 배경음악) - 페이지 이동",
+			"rank": 41,
+			"videoId": "aw_cfy1P8f8"
+		},
+		{
+			"artist": "Cardi B",
+			"title": "Money",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/15/498/10215498_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Money - 페이지 이동",
+			"rank": 42,
+			"videoId": "Zj2cK8wymIA"
+		},
+		{
+			"artist": "Drake",
+			"title": "Money In The Grave (Feat. Rick Ross)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/97/284/10297284_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "The Best In The World Pack - 페이지 이동",
+			"rank": 43,
+			"videoId": "MOfiOnPIkYg"
+		},
+		{
+			"artist": "JAY-Z",
+			"title": "Empire State Of Mind (Feat. Alicia Keys)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/010/83/884/1083884_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "The Hits Collection Volume One (Deluxe) - 페이지 이동",
+			"rank": 44,
+			"videoId": "Eww7ahPd8r4"
+		},
+		{
+			"artist": "Y2K, bbno$",
+			"title": "Lalala",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/03/474/10303474_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Lalala - 페이지 이동",
+			"rank": 45,
+			"videoId": "X_nJ5ksFVbg"
+		},
+		{
+			"artist": "XXXTENTACION",
+			"title": "Moonlight",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/49/287/10149287_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "? - 페이지 이동",
+			"rank": 46,
+			"videoId": "GX8Hg6kWQYI"
+		},
+		{
+			"artist": "Migos",
+			"title": "Bad And Boujee (Feat. Lil Uzi Vert)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/11/914/10011914_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Culture - 페이지 이동",
+			"rank": 47,
+			"videoId": "S-sJp1FfG7Q"
+		},
+		{
+			"artist": "Eminem",
+			"title": "The Monster (Feat. Rihanna)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/022/14/433/2214433_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "The Marshall Mathers LP2 (Deluxe) - 페이지 이동",
+			"rank": 48,
+			"videoId": "ZDXXi19_7iE"
+		},
+		{
+			"artist": "DaBaby",
+			"title": "Suge",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/71/449/10271449_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Baby On Baby - 페이지 이동",
+			"rank": 49,
+			"videoId": "YPpmGHn6gB8"
+		},
+		{
+			"artist": "Cardi B, Bad Bunny, J. Balvin",
+			"title": "I Like It",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/53/997/10153997_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Invasion of Privacy - 페이지 이동",
+			"rank": 50,
+			"videoId": "U4fErC9skHE"
+		},
+		{
+			"artist": "Diplo, French Montana, Lil Pump",
+			"title": "Welcome to the Party (Feat. Zhavia Ward)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/64/245/10164245_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "데드풀 (Deadpool) 2 OST - 페이지 이동",
+			"rank": 51,
+			"videoId": "QgOXIEhHU1Y"
+		},
+		{
+			"artist": "Childish Gambino",
+			"title": "This Is America",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/64/629/10164629_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "This Is America - 페이지 이동",
+			"rank": 52,
+			"videoId": "455cIDUClO0"
+		},
+		{
+			"artist": "XXXTENTACION",
+			"title": "Look At Me!",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/05/034/10105034_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Revenge - 페이지 이동",
+			"rank": 53,
+			"videoId": "wJGcwEv7838"
+		},
+		{
+			"artist": "Drake",
+			"title": "Hotline Bling",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/023/32/903/2332903_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Hotline Bling - 페이지 이동",
+			"rank": 54,
+			"videoId": "uJtaKS1ARoE"
+		},
+		{
+			"artist": "Lil Nas X",
+			"title": "Panini",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/98/877/10298877_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "7 EP - 페이지 이동",
+			"rank": 55,
+			"videoId": "1PrWA4C8eLw"
+		},
+		{
+			"artist": "Kendrick Lamar, SZA",
+			"title": "All The Stars",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/25/810/10125810_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Black Panther The Album Music From And Inspired By - 페이지 이동",
+			"rank": 56,
+			"videoId": "GfCqMv--ncA"
+		},
+		{
+			"artist": "Lizzo",
+			"title": "Boys",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/78/431/10178431_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Boys - 페이지 이동",
+			"rank": 57,
+			"videoId": "EiQ9Jmqs_kc"
+		},
+		{
+			"artist": "Migos",
+			"title": "Walk It Talk It (Feat. Drake)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/06/815/10106815_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Culture II - 페이지 이동",
+			"rank": 58,
+			"videoId": "A_xWDAbnBSU"
+		},
+		{
+			"artist": "Desiigner",
+			"title": "Panda",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/70/189/2670189_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "New English - 페이지 이동",
+			"rank": 59,
+			"videoId": "4NJlUribp3c"
+		},
+		{
+			"artist": "Flo Rida",
+			"title": "Whistle",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/021/21/844/2121844_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Whistle - 페이지 이동",
+			"rank": 60,
+			"videoId": "mRaffkti2us"
+		},
+		{
+			"artist": "Lil Pump",
+			"title": "Be Like Me (feat. Lil Wayne)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/48/206/10248206_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Harverd Dropout - 페이지 이동",
+			"rank": 61,
+			"videoId": "5rOhDbu8bVA"
+		},
+		{
+			"artist": "Kanye West, Lil Pump",
+			"title": "I Love It",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/02/502/10202502_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "I Love It - 페이지 이동",
+			"rank": 62,
+			"videoId": "cwQgjq0mCdE"
+		},
+		{
+			"artist": "Travis Scott",
+			"title": "WAKE UP",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/91/224/10191224_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "ASTROWORLD - 페이지 이동",
+			"rank": 63,
+			"videoId": "FAO8ZAUBx0c"
+		},
+		{
+			"artist": "Big Sean",
+			"title": "Single Again",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/10/955/10310955_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Single Again - 페이지 이동",
+			"rank": 64,
+			"videoId": "EzxY74w0EUY"
+		},
+		{
+			"artist": "Snoop Dogg, Wiz Khalifa",
+			"title": "Young, Wild & Free (Feat. Bruno Mars)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/020/48/293/2048293_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Mac And Devin Go To High School (Music From And Inspired By The Movie) (Explicit) - 페이지 이동",
+			"rank": 65,
+			"videoId": "Wa5B22KAkEk"
+		},
+		{
+			"artist": "Meek Mill",
+			"title": "Going Bad (feat. Drake)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/25/560/10225560_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Championships - 페이지 이동",
+			"rank": 66,
+			"videoId": "9CHnHH-kUQ8"
+		},
+		{
+			"artist": "Marshmello, Tyga, Chris Brown",
+			"title": "Light It Up",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/78/319/10278319_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Light It Up - 페이지 이동",
+			"rank": 67,
+			"videoId": "qGh2e-yqEYQ"
+		},
+		{
+			"artist": "Rich Brian",
+			"title": "100 Degrees",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/00/311/10300311_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "The Sailor - 페이지 이동",
+			"rank": 68,
+			"videoId": "GHmIjDx-m3k"
+		},
+		{
+			"artist": "DJ Khaled",
+			"title": "Celebrate (feat. Travis Scott & Post Malone)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/89/386/10189386_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Father Of Asahd - 페이지 이동",
+			"rank": 69,
+			"videoId": "R59sfLVdBJA"
+		},
+		{
+			"artist": "A$AP Rocky",
+			"title": "Praise The Lord (Da Shine) (Feat. Skepta)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/70/477/10170477_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "TESTING - 페이지 이동",
+			"rank": 70,
+			"videoId": "_eDpH4hMW1o"
+		},
+		{
+			"artist": "Kendrick Lamar",
+			"title": "DNA.",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/51/191/10051191_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "DAMN. - 페이지 이동",
+			"rank": 71,
+			"videoId": "uX6uBHPGfSs"
+		},
+		{
+			"artist": "Post Malone",
+			"title": "Wow. (Remix) (Feat. Roddy Ricch & Tyga)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/61/886/10261886_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Wow. (Remix) - 페이지 이동",
+			"rank": 72,
+			"videoId": "Em1uK7KKc6o"
+		},
+		{
+			"artist": "Flo Rida",
+			"title": "I Don`t Like It, I Love It (Feat. Robin Thicke & Verdine White)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/023/12/812/2312812_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "MY HOUSE - 페이지 이동",
+			"rank": 73,
+			"videoId": "Tw8mpgccugc"
+		},
+		{
+			"artist": "21 Savage, Offset, Metro Boomin",
+			"title": "Ric Flair Drip",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/08/103/10108103_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Without Warning - 페이지 이동",
+			"rank": 74,
+			"videoId": "OwbI9IY9Roo"
+		},
+		{
+			"artist": "G-Eazy",
+			"title": "No Limit (Feat. A$AP Rocky & Cardi B)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/94/806/10094806_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "No Limit (Feat. A$AP Rocky & Cardi B) - 페이지 이동",
+			"rank": 75,
+			"videoId": "l_lblj8Cq0o"
+		},
+		{
+			"artist": "Travis Scott",
+			"title": "goosebumps (Feat. Kendrick Lamar)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/00/410/10000410_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Birds In The Trap Sing McKnight - 페이지 이동",
+			"rank": 76,
+			"videoId": "Dst9gZkq1a8"
+		},
+		{
+			"artist": "N.E.R.D, Rihanna",
+			"title": "Lemon",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/08/312/10108312_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "NO ONE EVER REALLY DIES - 페이지 이동",
+			"rank": 77,
+			"videoId": "AfqxtHjbtaA"
+		},
+		{
+			"artist": "Lil Uzi Vert",
+			"title": "Xo Tour Llif3",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/50/130/10050130_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Luv Is Rage 2 (Deluxe) - 페이지 이동",
+			"rank": 78,
+			"videoId": "wvqri9oS4G4"
+		},
+		{
+			"artist": "Eminem",
+			"title": "Rap God",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/022/10/970/2210970_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Rap God - 페이지 이동",
+			"rank": 79,
+			"videoId": "S7cQ3b0iqLo"
+		},
+		{
+			"artist": "Tyga",
+			"title": "Dip (Feat. Nicki Minaj)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/17/661/10217661_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Dip (Feat. Nicki Minaj) - 페이지 이동",
+			"rank": 80,
+			"videoId": "YyWru2XOiK0"
+		},
+		{
+			"artist": "Jake Miller",
+			"title": "Rumors",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/023/28/446/2328446_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Rumors - 페이지 이동",
+			"rank": 81,
+			"videoId": "OyJPOueeYUQ"
+		},
+		{
+			"artist": "Dr. Dre",
+			"title": "Still D.R.E. (Feat. Snoop Dogg)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/000/24/021/24021_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "2001 - 페이지 이동",
+			"rank": 82,
+			"videoId": "PI33Te8Y7DI"
+		},
+		{
+			"artist": "DJ Khaled",
+			"title": "All I Do Is Win (feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/008/39/465/839465_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Victory - 페이지 이동",
+			"rank": 83,
+			"videoId": "GGXzlRoNtHU"
+		},
+		{
+			"artist": "DJ Khaled",
+			"title": "Wish Wish (feat. Cardi B & 21 Savage)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/89/386/10189386_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Father Of Asahd - 페이지 이동",
+			"rank": 84,
+			"videoId": "Oq8z-U3bPgo"
+		},
+		{
+			"artist": "MAC MILLER",
+			"title": "My Favorite Part (Feat. Ariana Grande)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/027/01/990/2701990_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "The Divine Feminine - 페이지 이동",
+			"rank": 85,
+			"videoId": "2vkko-vX06I"
+		},
+		{
+			"artist": "Nelly",
+			"title": "Dilemma (featuring Kelly Rowland)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/000/29/081/29081_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Nellyville - 페이지 이동",
+			"rank": 86,
+			"videoId": "b-G8VhaWheM"
+		},
+		{
+			"artist": "Post Malone",
+			"title": "Stay",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/96/328/10096328_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "beerbongs & bentleys - 페이지 이동",
+			"rank": 87,
+			"videoId": "_CUyj0yvuaU"
+		},
+		{
+			"artist": "Tyler, The Creator",
+			"title": "EARFQUAKE",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/87/063/10287063_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "IGOR - 페이지 이동",
+			"rank": 88,
+			"videoId": "0gvEfIbGJxQ"
+		},
+		{
+			"artist": "Gucci Mane, Bruno Mars, Kodak Black",
+			"title": "Wake Up in the Sky",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/04/549/10204549_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Evil Genius - 페이지 이동",
+			"rank": 89,
+			"videoId": "U68MJz9DrI4"
+		},
+		{
+			"artist": "Dr. Dre",
+			"title": "The Next Episode (Feat. Snoop Dogg) ",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/000/24/021/24021_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "2001 - 페이지 이동",
+			"rank": 90,
+			"videoId": "nq1cj5bUkzQ"
+		},
+		{
+			"artist": "Drake",
+			"title": "Passionfruit",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/47/237/10047237_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "More Life - 페이지 이동",
+			"rank": 91,
+			"videoId": "HF2p29GPMeI"
+		},
+		{
+			"artist": "Lil Pump",
+			"title": "Pose To Do (feat. French Montana and Quavo)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/09/423/10309423_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Pose To Do (feat. French Montana and Quavo) - 페이지 이동",
+			"rank": 92,
+			"videoId": "57wNUKzBOVo"
+		},
+		{
+			"artist": "Snoop Dogg, Wiz Khalifa",
+			"title": "Young, Wild & Free (Feat. Bruno Mars)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/020/25/312/2025312_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Young, Wild & Free (Feat. Bruno Mars) - 페이지 이동",
+			"rank": 93,
+			"videoId": "Wa5B22KAkEk"
+		},
+		{
+			"artist": "Logic",
+			"title": "1-800-273-8255 (Feat. Alessia Cara & Khalid)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/55/253/10055253_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Everybody - 페이지 이동",
+			"rank": 94,
+			"videoId": "Kb24RrHIbFk"
+		},
+		{
+			"artist": "Kodak Black",
+			"title": "ZEZE (feat. Travis Scott & Offset)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/13/165/10213165_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "ZEZE (feat. Travis Scott & Offset) - 페이지 이동",
+			"rank": 95,
+			"videoId": "mjaayCARwro"
+		},
+		{
+			"artist": "Lil Nas X, Billy Ray Cyrus",
+			"title": "Old Town Road (Remix) (feat. Young Thug & Mason Ramsey)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/06/795/10306795_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Old Town Road (Remix) (feat. Young Thug & Mason Ramsey) - 페이지 이동",
+			"rank": 96,
+			"videoId": "loSuMqwQA38"
+		},
+		{
+			"artist": "DJ Khaled, Calvin Harris",
+			"title": "Don`t Quit (Feat. Travis Scott & Jeremih)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/38/376/10038376_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Grateful - 페이지 이동",
+			"rank": 97,
+			"videoId": "q6LrTf--PHU"
+		},
+		{
+			"artist": "DJ Khaled",
+			"title": "Wild Thoughts (Feat. Rihanna & Bryson Tiller)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/38/376/10038376_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Grateful - 페이지 이동",
+			"rank": 98,
+			"videoId": "fyaI4-5849w"
+		},
+		{
+			"artist": "Nicki Minaj",
+			"title": "MEGATRON",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/98/852/10298852_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "MEGATRON - 페이지 이동",
+			"rank": 99,
+			"videoId": "64_nIgpMIB0"
+		},
+		{
+			"artist": "French Montana",
+			"title": "Wiggle It (feat. City Girls)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/06/562/10306562_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Wiggle It (feat. City Girls) - 페이지 이동",
+			"rank": 100,
+			"videoId": "kLKdubgNsbw"
+		}
+	],
+	"chart": "Melon",
+	"date": "2019-08-18 16:45:53.295448"
+}

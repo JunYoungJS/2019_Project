@@ -1,0 +1,806 @@
+{
+	"chart": "Melon",
+	"date": "2019-07-23 17:06:40.547714",
+	"entries": [
+		{
+			"artist": "Alan Walker, Sabrina Carpenter, Farruko",
+			"title": "On My Way (배틀그라운드 모바일 배경음악)",
+			"rank": 1,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/63/661/10263661_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "On My Way - 페이지 이동",
+			"videoId": "CoXt_-HzpTw"
+		},
+		{
+			"artist": "The Chainsmokers",
+			"title": "Closer (Feat. Halsey)",
+			"rank": 2,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/027/00/553/2700553_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Collage EP - 페이지 이동",
+			"videoId": "Lv6EV478u3U"
+		},
+		{
+			"artist": "Alan Walker",
+			"title": "All Falls Down (Feat. Noah Cyrus, Digital Farm Animals)",
+			"rank": 3,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/06/220/10106220_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Different World - 페이지 이동",
+			"videoId": "6RLLOEzdxsM"
+		},
+		{
+			"artist": "Alan Walker",
+			"title": "Faded",
+			"rank": 4,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/62/086/2662086_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Faded - 페이지 이동",
+			"videoId": "psn_rs_a5O0"
+		},
+		{
+			"artist": "Mike Perry",
+			"title": "The Ocean (Feat. Shy Martin) (Radio Edit.)",
+			"rank": 5,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/97/734/2697734_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "The Ocean (Feat. Shy Martin) (Radio Edit.) - 페이지 이동",
+			"videoId": "mGQFZxIuURE"
+		},
+		{
+			"artist": "The Chainsmokers, Coldplay",
+			"title": "Something Just Like This",
+			"rank": 6,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/31/250/10031250_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Memories...Do Not Open - 페이지 이동",
+			"videoId": "FM7MFYoylVs"
+		},
+		{
+			"artist": "Martin Garrix",
+			"title": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy) (시몬스 침대 광고 삽입곡)",
+			"rank": 7,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/78/778/10278778_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy) - 페이지 이동",
+			"videoId": "LdvvPtIfR8w"
+		},
+		{
+			"artist": "HONNE",
+			"title": "Day 1 ◑",
+			"rank": 8,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/52/583/10152583_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Love Me / Love Me Not - 페이지 이동",
+			"videoId": "hWOB5QYcmh0"
+		},
+		{
+			"artist": "Cash Cash",
+			"title": "How To Love (Feat. Sofia Reyes)",
+			"rank": 9,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/81/884/2681884_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Blood, Sweat & 3 Years - 페이지 이동",
+			"videoId": "peByeoQhjMM"
+		},
+		{
+			"artist": "Calvin Harris",
+			"title": "Feels (Feat. Pharrell Williams, Katy Perry & Big Sean)",
+			"rank": 10,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/42/493/10042493_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Funk Wav Bounces Vol.1 - 페이지 이동",
+			"videoId": "ozv4q2ov3Mk"
+		},
+		{
+			"artist": "Alan Walker",
+			"title": "Alone",
+			"rank": 11,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/20/024/10020024_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Alone - 페이지 이동",
+			"videoId": "4kFkXpnNmwg"
+		},
+		{
+			"artist": "Clean Bandit",
+			"title": "Symphony (Feat. Zara Larsson)",
+			"rank": 12,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/46/270/10046270_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Symphony (Feat. Zara Larsson) - 페이지 이동",
+			"videoId": "KFFfVRYLgZs"
+		},
+		{
+			"artist": "Sigala, Paloma Faith",
+			"title": "Lullaby (LG Q7 광고 삽입곡)",
+			"rank": 13,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/41/572/10141572_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Lullaby - 페이지 이동",
+			"videoId": "ghSQz2BcDQU"
+		},
+		{
+			"artist": "The Chainsmokers, 5 Seconds Of Summer",
+			"title": "Who Do You Love",
+			"rank": 14,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/49/220/10249220_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "World War Joy - 페이지 이동",
+			"videoId": "U0V1y2p1sgs"
+		},
+		{
+			"artist": "Calvin Harris, Dua Lipa",
+			"title": "One Kiss",
+			"rank": 15,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/56/160/10156160_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "One Kiss - 페이지 이동",
+			"videoId": "Bm8rz-llMhE"
+		},
+		{
+			"artist": "Alan Walker",
+			"title": "The Spectre",
+			"rank": 16,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/96/725/10096725_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "The Spectre - 페이지 이동",
+			"videoId": "Cixj-SQq_38"
+		},
+		{
+			"artist": "Tungevaag & Raaban",
+			"title": "Samsara (Feat. Emila)",
+			"rank": 17,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/023/05/442/2305442_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Samsara (Feat. Emila) (Single) - 페이지 이동",
+			"videoId": "_eVNU59Q_MU"
+		},
+		{
+			"artist": "Martin Garrix, Troye Sivan",
+			"title": "There For You",
+			"rank": 18,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/65/719/10065719_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "There For You - 페이지 이동",
+			"videoId": "pNNMr5glICM"
+		},
+		{
+			"artist": "Calvin Harris",
+			"title": "Slide (Feat. Frank Ocean & Migos)",
+			"rank": 19,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/42/493/10042493_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Funk Wav Bounces Vol.1 - 페이지 이동",
+			"videoId": "8Ee4QjCEHHc"
+		},
+		{
+			"artist": "Galantis",
+			"title": "San Francisco (feat. Sofia Carson)",
+			"rank": 20,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/35/670/10235670_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "San Francisco (feat. Sofia Carson) - 페이지 이동",
+			"videoId": "WxEbxHoZ650"
+		},
+		{
+			"artist": "DJ Snake",
+			"title": "Let Me Love You (Feat. Justin Bieber)",
+			"rank": 21,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/45/246/2645246_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Encore - 페이지 이동",
+			"videoId": "SMs0GnYze34"
+		},
+		{
+			"artist": "Jonas Blue",
+			"title": "Mama (Feat. William Singe)",
+			"rank": 22,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/10/485/10010485_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "We Could Go Back - 페이지 이동",
+			"videoId": "ERMRWk1bwqo"
+		},
+		{
+			"artist": "The Chainsmokers",
+			"title": "Paris",
+			"rank": 23,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/95/173/10095173_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Memories...Do Not Open (Korea Special Tour Edition) - 페이지 이동",
+			"videoId": "RhU9MZ98jxo"
+		},
+		{
+			"artist": "Calvin Harris",
+			"title": "This Is What You Came For (Feat. Rihanna)",
+			"rank": 24,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/83/462/2683462_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "This Is What You Came For (Feat. Rihanna) - 페이지 이동",
+			"videoId": "v2XM2g65L18"
+		},
+		{
+			"artist": "Tiesto, Sevenn",
+			"title": "BOOM (Feat. Gucci Mane)",
+			"rank": 25,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/32/663/10132663_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "BOOM - 페이지 이동",
+			"videoId": "Ra4BDSCfAVo"
+		},
+		{
+			"artist": "The Chainsmokers, Bebe Rexha",
+			"title": "Call You Mine",
+			"rank": 26,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/49/220/10249220_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "World War Joy - 페이지 이동",
+			"videoId": "3XCVM3G3pns"
+		},
+		{
+			"artist": "Clean Bandit",
+			"title": "Rockabye (Feat. Sean Paul & Anne-Marie)",
+			"rank": 27,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/08/022/10008022_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Rockabye (Feat. Sean Paul & Anne-Marie) - 페이지 이동",
+			"videoId": "papuvlVeZg8"
+		},
+		{
+			"artist": "숀 (SHAUN)",
+			"title": "Way Back Home (feat. Conor Maynard) [Sam Feldt Edit]",
+			"rank": 28,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/35/843/10235843_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Way Back Home (feat. Conor Maynard) [Sam Feldt Edit] (Streaming Ver.) - 페이지 이동",
+			"videoId": "eNt78mQJavY"
+		},
+		{
+			"artist": "The Chainsmokers",
+			"title": "Don`t Let Me Down (Feat. Daya)",
+			"rank": 29,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/65/904/2665904_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Don`t Let Me Down (Feat. Daya) - 페이지 이동",
+			"videoId": "qMH0Xglh7GA"
+		},
+		{
+			"artist": "Tiesto, Jonas Blue, Rita Ora",
+			"title": "Ritual",
+			"rank": 30,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/92/109/10292109_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Ritual - 페이지 이동",
+			"videoId": "0s7pKFWLgWk"
+		},
+		{
+			"artist": "LANY",
+			"title": "Malibu Nights",
+			"rank": 31,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/09/313/10209313_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Malibu Nights - 페이지 이동",
+			"videoId": "KdcPzDNHX74"
+		},
+		{
+			"artist": "Marshmello, CHVRCHES",
+			"title": "Here With Me",
+			"rank": 32,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/59/188/10259188_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Here With Me - 페이지 이동",
+			"videoId": "jJHFirGQqvk"
+		},
+		{
+			"artist": "HONNE",
+			"title": "Warm On A Cold Night (시몬스 침대 2017 TV CF 캠페인 - `당신의 숙면이 흔들리지 않도록` 삽입곡)",
+			"rank": 33,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/77/903/2677903_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Warm On A Cold Night (Deluxe) - 페이지 이동",
+			"videoId": "n3yWpuFSji8"
+		},
+		{
+			"artist": "Clean Bandit",
+			"title": "Solo (Feat. Demi Lovato)",
+			"rank": 34,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/67/445/10167445_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "What Is Love? (Deluxe) - 페이지 이동",
+			"videoId": "nqHjEmsF31I"
+		},
+		{
+			"artist": "Kygo, Imagine Dragons",
+			"title": "Born To Be Yours",
+			"rank": 35,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/75/895/10175895_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Born To Be Yours - 페이지 이동",
+			"videoId": "mOFvJVroAJE"
+		},
+		{
+			"artist": "Neiked",
+			"title": "Sexual (Feat. Dyo)",
+			"rank": 36,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/027/06/973/2706973_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Sexual - 페이지 이동",
+			"videoId": "u69bAy8B5Bs"
+		},
+		{
+			"artist": "Alan Walker",
+			"title": "Darkside (Feat. Tomine Harket & Au/Ra)",
+			"rank": 37,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/88/548/10188548_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Darkside - 페이지 이동",
+			"videoId": "M-P4QBt-FWw"
+		},
+		{
+			"artist": "Sigala, Ella Eyre",
+			"title": "Came Here For Love",
+			"rank": 38,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/69/536/10069536_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Came Here For Love - 페이지 이동",
+			"videoId": "Uq8fE3kKIBk"
+		},
+		{
+			"artist": "David Guetta",
+			"title": "Titanium (Feat. Sia)",
+			"rank": 39,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/020/08/205/2008205_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Titanium (Feat. Sia) - 페이지 이동",
+			"videoId": "fGt3lDtozqM"
+		},
+		{
+			"artist": "Notd, HRVY",
+			"title": "I Miss Myself",
+			"rank": 40,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/80/617/10280617_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "I Miss Myself - 페이지 이동",
+			"videoId": "i01ENJSTYto"
+		},
+		{
+			"artist": "Sigala, Becky Hill",
+			"title": "Wish You Well",
+			"rank": 41,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/88/778/10288778_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Wish You Well - 페이지 이동",
+			"videoId": "lJOLxSaEffo"
+		},
+		{
+			"artist": "Coldplay",
+			"title": "Hymn For The Weekend (Seeb Remix)",
+			"rank": 42,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/85/889/2685889_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Hymn For The Weekend (Seeb Remix) - 페이지 이동",
+			"videoId": "k1gsZ-OsGpI"
+		},
+		{
+			"artist": "Faustix",
+			"title": "Thorns",
+			"rank": 43,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/67/593/10267593_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Thorns - 페이지 이동",
+			"videoId": "4iWyVFR_srY"
+		},
+		{
+			"artist": "Avicii",
+			"title": "Wake Me Up (Radio Edit)",
+			"rank": 44,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/021/89/128/2189128_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Wake Me Up - 페이지 이동",
+			"videoId": "5y_KJAg8bHI"
+		},
+		{
+			"artist": "Alan Walker, K-391, Emelie Hollow",
+			"title": "Lily",
+			"rank": 45,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/06/220/10106220_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Different World - 페이지 이동",
+			"videoId": "kTJbE3sfvlI"
+		},
+		{
+			"artist": "DJ Snake",
+			"title": "Taki Taki (Feat. Selena Gomez, Ozuna & Cardi B)",
+			"rank": 46,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/07/818/10207818_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Taki Taki - 페이지 이동",
+			"videoId": "ixkoVwKQaJg"
+		},
+		{
+			"artist": "Lemaitre",
+			"title": "Closer (Feat. Jennie A.)",
+			"rank": 47,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/64/613/2664613_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "1749 - 페이지 이동",
+			"videoId": "dSYu8FLVr_Y"
+		},
+		{
+			"artist": "Avicii",
+			"title": "Waiting For Love",
+			"rank": 48,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/94/908/2694908_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Edmotion Dance Hits - 페이지 이동",
+			"videoId": "-ncIVUXZla8"
+		},
+		{
+			"artist": "David Guetta, Showtek",
+			"title": "Bad (Feat. Vassy) (Radio Edit)",
+			"rank": 49,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/022/49/404/2249404_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Bad (Feat. Vassy) (Radio Edit) - 페이지 이동",
+			"videoId": "oC-GflRB0y4"
+		},
+		{
+			"artist": "Kshmr, 7 Skies",
+			"title": "Neverland",
+			"rank": 50,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/92/556/10192556_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Neverland (Streaming Ver.) - 페이지 이동",
+			"videoId": "RNyg7NBKtLM"
+		},
+		{
+			"artist": "The Chainsmokers",
+			"title": "Paris (삼성 SM6 광고 삽입곡)",
+			"rank": 51,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/31/250/10031250_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Memories...Do Not Open - 페이지 이동",
+			"videoId": "yQpJnwqIj5s"
+		},
+		{
+			"artist": "Dante Klein, Jantine Annika Heij",
+			"title": "what i like about u",
+			"rank": 52,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/59/464/10159464_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "what i like about u - 페이지 이동",
+			"videoId": "XehlywgmwQ0"
+		},
+		{
+			"artist": "The Chainsmokers",
+			"title": "Hope (feat. Winona Oak)",
+			"rank": 53,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/30/423/10130423_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Sick Boy - 페이지 이동",
+			"videoId": "SJOgTMP8cs4"
+		},
+		{
+			"artist": "Ally Brooke",
+			"title": "The Truth Is In There",
+			"rank": 54,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/35/665/10235665_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "The Truth Is In There - 페이지 이동",
+			"videoId": "xd_FEHRj0Iw"
+		},
+		{
+			"artist": "Dawin",
+			"title": "Dessert",
+			"rank": 55,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/023/09/360/2309360_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Dessert - 페이지 이동",
+			"videoId": "SZ78dL190YI"
+		},
+		{
+			"artist": "LANY",
+			"title": "ILYSB",
+			"rank": 56,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/56/200/2656200_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "LANY (Korea Edition) - 페이지 이동",
+			"videoId": "RPvhItA3lIM"
+		},
+		{
+			"artist": "Kygo, Rita Ora",
+			"title": "Carry On",
+			"rank": 57,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/75/434/10275434_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Carry On (영화 '명탐정 피카츄' 엔딩 수록곡) - 페이지 이동",
+			"videoId": "02EHhIRLmpE"
+		},
+		{
+			"artist": "Redfoo",
+			"title": "New Thang",
+			"rank": 58,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/023/29/696/2329696_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "New Thang - 페이지 이동",
+			"videoId": "RNiUxX5wVUc"
+		},
+		{
+			"artist": "Makj, Timmy Trumpet",
+			"title": "Party Till We Die (Feat. Andrew W.K.)",
+			"rank": 59,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/03/899/10003899_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Party Till We Die - 페이지 이동",
+			"videoId": "qRJejXo8AFs"
+		},
+		{
+			"artist": "Lost Frequencies, Zonderling",
+			"title": "Crazy",
+			"rank": 60,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/40/539/10140539_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Crazy - 페이지 이동",
+			"videoId": "h-RDGqe-doc"
+		},
+		{
+			"artist": "Avicii",
+			"title": "Lonely Together (Feat. Rita Ora)",
+			"rank": 61,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/87/129/10087129_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "AVICI (01) - 페이지 이동",
+			"videoId": "vQ3XgMKAgxc"
+		},
+		{
+			"artist": "Alan Walker",
+			"title": "Sing Me To Sleep",
+			"rank": 62,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/88/634/2688634_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Sing Me To Sleep - 페이지 이동",
+			"videoId": "CbOeURhMAIc"
+		},
+		{
+			"artist": "David Guetta",
+			"title": "Titanium (Feat. Sia)",
+			"rank": 63,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/021/69/521/2169521_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Nothing But The Beat Ultimate - 페이지 이동",
+			"videoId": "fGt3lDtozqM"
+		},
+		{
+			"artist": "Sigala, Ella Eyre, Meghan Trainor",
+			"title": "Just Got Paid (Feat. French Montana)",
+			"rank": 64,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/75/630/10175630_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Brighter Days - 페이지 이동",
+			"videoId": "mCYwONZYiUc"
+		},
+		{
+			"artist": "HONNE",
+			"title": "Crying Over You ◐",
+			"rank": 65,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/52/583/10152583_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Love Me / Love Me Not - 페이지 이동",
+			"videoId": "GdJP11JwLos"
+		},
+		{
+			"artist": "Major Lazer",
+			"title": "Cold Water (Feat. Justin Bieber & MØ)",
+			"rank": 66,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/99/737/2699737_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Cold Water (Feat. Justin Bieber & MØ) - 페이지 이동",
+			"videoId": "a59gmGkq_pw"
+		},
+		{
+			"artist": "The Chainsmokers",
+			"title": "This Feeling (feat. Kelsea Ballerini)",
+			"rank": 67,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/30/423/10130423_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Sick Boy - 페이지 이동",
+			"videoId": "k2kkXQ8OVqY"
+		},
+		{
+			"artist": "Kungs, Cookin` On 3 Burners",
+			"title": "This Girl (Kungs Vs. Cookin' On 3 Burners) (Kungs Vs. Cookin' On 3 Burners)",
+			"rank": 68,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/70/089/2670089_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Layers - 페이지 이동",
+			"videoId": "2Y6Nne8RvaA"
+		},
+		{
+			"artist": "Kshmr, Marnik",
+			"title": "Bazaar (Official Sunburn Goa 2015 Anthem)",
+			"rank": 69,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/58/487/2658487_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Bazaar (Official Sunburn Goa 2015 Anthem) - 페이지 이동",
+			"videoId": "KlJAiwwGHMg"
+		},
+		{
+			"artist": "Redfoo",
+			"title": "Party Train",
+			"rank": 70,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/62/355/2662355_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Party Rock Mansion - 페이지 이동",
+			"videoId": "X_BnKa-nxt0"
+		},
+		{
+			"artist": "Jonas Blue",
+			"title": "What I Like About You (Feat. Theresa Rex)",
+			"rank": 71,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/64/319/10264319_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "What I Like About You - 페이지 이동",
+			"videoId": "50LLBCB1n4M"
+		},
+		{
+			"artist": "Madeon",
+			"title": "All My Friends",
+			"rank": 72,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/92/564/10292564_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "All My Friends - 페이지 이동",
+			"videoId": "_qYyU019PbI"
+		},
+		{
+			"artist": "Mike Perry",
+			"title": "Inside The Lines (Feat. Casso)",
+			"rank": 73,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/23/326/10023326_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Inside The Lines (Feat. Casso) - 페이지 이동",
+			"videoId": "bfDROnQqjWE"
+		},
+		{
+			"artist": "TJR",
+			"title": "We Wanna Party",
+			"rank": 74,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/74/508/2674508_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "We Wanna Party - 페이지 이동",
+			"videoId": "BS5P9XrX9PY"
+		},
+		{
+			"artist": "HONNE",
+			"title": "3am",
+			"rank": 75,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/77/903/2677903_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Warm On A Cold Night (Deluxe) - 페이지 이동",
+			"videoId": "tzQoqRz8L_w"
+		},
+		{
+			"artist": "Daft Punk",
+			"title": "Get Lucky (Feat. Pharrell Williams)",
+			"rank": 76,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/021/85/777/2185777_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Random Access Memories - 페이지 이동",
+			"videoId": "5NV6Rdv1a3I"
+		},
+		{
+			"artist": "Louisa",
+			"title": "So Good (Alex Adair Remix)",
+			"rank": 77,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/17/963/10017963_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "So Good (Alex Adair Remix) - 페이지 이동",
+			"videoId": "RB0GqKpZBAM"
+		},
+		{
+			"artist": "LANY, Julia Michaels",
+			"title": "okay",
+			"rank": 78,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/77/191/10277191_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "okay - 페이지 이동",
+			"videoId": "Kcd2q-orYfY"
+		},
+		{
+			"artist": "Skrillex",
+			"title": "Bangarang (Feat. Sirah)",
+			"rank": 79,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/020/55/566/2055566_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Bangarang - 페이지 이동",
+			"videoId": "cR2XilcGYOo"
+		},
+		{
+			"artist": "Total Ape",
+			"title": "Young Gods (전지현 `헤라` 광고 삽입곡)",
+			"rank": 80,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/21/588/10021588_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Young Gods - 페이지 이동",
+			"videoId": "cPr1p_dCXLo"
+		},
+		{
+			"artist": "Martin Garrix, Dua Lipa",
+			"title": "Scared To Be Lonely",
+			"rank": 81,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/34/539/10034539_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Scared To Be Lonely - 페이지 이동",
+			"videoId": "W7qmIWdWMBo"
+		},
+		{
+			"artist": "DJ Snake, Lil Jon",
+			"title": "Turn Down For What",
+			"rank": 82,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/022/26/715/2226715_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Turn Down For What - 페이지 이동",
+			"videoId": "QFy0hQ3lY-w"
+		},
+		{
+			"artist": "Audien",
+			"title": "Crazy Love (Feat. Deb’s Daughter)",
+			"rank": 83,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/027/05/189/2705189_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Crazy Love - 페이지 이동",
+			"videoId": "NgzlmUmwJJc"
+		},
+		{
+			"artist": "David Guetta",
+			"title": "2U (Feat. Justin Bieber)",
+			"rank": 84,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/70/056/10070056_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "2U (Feat. Justin Bieber) - 페이지 이동",
+			"videoId": "RqcjBLMaWCg"
+		},
+		{
+			"artist": "Jax Jones",
+			"title": "Instruction (Feat. Demi Lovato & Stefflon Don)",
+			"rank": 85,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/71/533/10071533_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Instruction - 페이지 이동",
+			"videoId": "MQXLpSl26q4"
+		},
+		{
+			"artist": "Martin Jensen",
+			"title": "All I Wanna Do",
+			"rank": 86,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/78/285/2678285_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "All I Wanna Do - 페이지 이동",
+			"videoId": "_zlS94KuD0g"
+		},
+		{
+			"artist": "Martin Garrix, Bebe Rexha",
+			"title": "In The Name Of Love",
+			"rank": 87,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/027/01/256/2701256_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "In The Name Of Love - 페이지 이동",
+			"videoId": "AeGfss2vsZg"
+		},
+		{
+			"artist": "Avicii",
+			"title": "Heaven",
+			"rank": 88,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/94/418/10294418_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "TIM - 페이지 이동",
+			"videoId": "y6PpgZvL-3s"
+		},
+		{
+			"artist": "Jonas Blue",
+			"title": "Perfect Strangers (Feat. JP Cooper)",
+			"rank": 89,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/88/892/2688892_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Perfect Strangers - 페이지 이동",
+			"videoId": "qyvck005pyQ"
+		},
+		{
+			"artist": "Avicii",
+			"title": "SOS (Feat. Aloe Blacc)",
+			"rank": 90,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/72/447/10272447_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "SOS - 페이지 이동",
+			"videoId": "u8tdT5pAE34"
+		},
+		{
+			"artist": "The Chainsmokers",
+			"title": "Roses (Feat. ROZES)",
+			"rank": 91,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/023/24/717/2324717_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Roses (Feat. ROZES) - 페이지 이동",
+			"videoId": "FyASdjZE0R0"
+		},
+		{
+			"artist": "Avicii",
+			"title": "The Nights",
+			"rank": 92,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/022/93/035/2293035_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "The Days / Nights (EP) - 페이지 이동",
+			"videoId": "XmIgg9De9hY"
+		},
+		{
+			"artist": "3Angle, Guglielmo Nasini",
+			"title": "Just Another Day (Original Mix)",
+			"rank": 93,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/14/191/10214191_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Just Another Day - 페이지 이동",
+			"videoId": "o3jrf-epChM"
+		},
+		{
+			"artist": "Kshmr, Marnik",
+			"title": "Mandala (Feat. Mitika) (Sunburn 2016 Anthem)",
+			"rank": 94,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/28/866/10028866_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Mandala (Feat. Mitika) (Sunburn 2016 Anthem) - 페이지 이동",
+			"videoId": "ZgEY-EkNGN8"
+		},
+		{
+			"artist": "Zedd",
+			"title": "Daisy",
+			"rank": 95,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/023/18/985/2318985_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "True Colors - 페이지 이동",
+			"videoId": "CMNBjZBBKPw"
+		},
+		{
+			"artist": "Finding Hope",
+			"title": "3:00 Am",
+			"rank": 96,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/76/794/10176794_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Blue, Vol.1 - 페이지 이동",
+			"videoId": "tPMFAbhlDbU"
+		},
+		{
+			"artist": "Major Lazer",
+			"title": "Light It Up (Feat. Nyla & Fuse ODG) (Remix)",
+			"rank": 97,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/70/432/2670432_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Peace Is The Mission : Extended - 페이지 이동",
+			"videoId": "r2LpOUwca94"
+		},
+		{
+			"artist": "Jonas Blue",
+			"title": "By Your Side (Feat. Raye)",
+			"rank": 98,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/10/485/10010485_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "We Could Go Back - 페이지 이동",
+			"videoId": "wXRgxWU97BA"
+		},
+		{
+			"artist": "Zedd, Katy Perry",
+			"title": "365",
+			"rank": 99,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/51/131/10251131_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "365 - 페이지 이동",
+			"videoId": "anjZk7gkj_0"
+		},
+		{
+			"artist": "R3hab, Deorro",
+			"title": "Flashlight (Radio Edit) (클럽 하트춤 배경음악)",
+			"rank": 100,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/022/95/551/2295551_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Flashlight (클럽 하트춤 배경음악) - 페이지 이동",
+			"videoId": "y8KA4wp19XE"
+		}
+	]
+}

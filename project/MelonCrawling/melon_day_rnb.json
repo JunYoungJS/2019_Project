@@ -1,0 +1,806 @@
+{
+	"chart": "Melon",
+	"date": "2019-07-23 17:11:46.780523",
+	"entries": [
+		{
+			"artist": "마크툽 (MAKTUB)",
+			"title": "오늘도 빛나는 너에게 (To You My Light) (Feat.이라온)",
+			"rank": 1,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/94/603/10294603_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Red Moon : To You My Light - 페이지 이동",
+			"videoId": "dmSUBdk4SY4"
+		},
+		{
+			"artist": "헤이즈 (Heize)",
+			"title": "We don`t talk together (Feat. 기리보이) (Prod. SUGA)",
+			"rank": 2,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/03/989/10303989_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "We don`t talk together - 페이지 이동",
+			"videoId": "_6tdMlBwM9A"
+		},
+		{
+			"artist": "방탄소년단",
+			"title": "작은 것들을 위한 시 (Boy With Luv) feat. Halsey",
+			"rank": 3,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/73/641/10273641_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "MAP OF THE SOUL : PERSONA - 페이지 이동",
+			"videoId": "3J7rt7bkDCY"
+		},
+		{
+			"artist": "디오 (D.O.)",
+			"title": "괜찮아도 괜찮아 (That`s okay)",
+			"rank": 4,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/01/811/10301811_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "괜찮아도 괜찮아 (That`s okay) - SM STATION - 페이지 이동",
+			"videoId": "UEGoBgPiDp0"
+		},
+		{
+			"artist": "어반자카파",
+			"title": "서울 밤 (feat. 빈지노)",
+			"rank": 5,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/96/510/10296510_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "서울 밤 - 페이지 이동",
+			"videoId": "SS1j9Xxdhyo"
+		},
+		{
+			"artist": "폴킴",
+			"title": "헤어질 걸 알아",
+			"rank": 6,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/06/334/10306334_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "헤어질 걸 알아 - 페이지 이동",
+			"videoId": "OLiDzcE7YBE"
+		},
+		{
+			"artist": "백현 (BAEKHYUN)",
+			"title": "UN Village",
+			"rank": 7,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/05/581/10305581_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "City Lights - The 1st Mini Album - 페이지 이동",
+			"videoId": "3_TzWbCCN2k"
+		},
+		{
+			"artist": "폴킴",
+			"title": "비",
+			"rank": 8,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/92/501/2692501_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "비 - 페이지 이동",
+			"videoId": "9jFZdu0zTEA"
+		},
+		{
+			"artist": "방탄소년단",
+			"title": "소우주 (Mikrokosmos)",
+			"rank": 9,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/73/641/10273641_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "MAP OF THE SOUL : PERSONA - 페이지 이동",
+			"videoId": "LXOJk2PFKgY"
+		},
+		{
+			"artist": "백예린",
+			"title": "그건 아마 우리의 잘못은 아닐 거야",
+			"rank": 10,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/62/378/10262378_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Our love is great - 페이지 이동",
+			"videoId": "t79IOZHevE8"
+		},
+		{
+			"artist": "소유 (SOYOU), 오반",
+			"title": "비가 오잖아",
+			"rank": 11,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/86/209/10286209_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "비가 오잖아 - 페이지 이동",
+			"videoId": "yCeKJ14WboM"
+		},
+		{
+			"artist": "아이유",
+			"title": "삐삐",
+			"rank": 12,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/10/535/10210535_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "삐삐 - 페이지 이동",
+			"videoId": "KkKx9n7t1ac"
+		},
+		{
+			"artist": "백현 (BAEKHYUN)",
+			"title": "Ice Queen",
+			"rank": 13,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/05/581/10305581_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "City Lights - The 1st Mini Album - 페이지 이동",
+			"videoId": "PybMkgtWZxE"
+		},
+		{
+			"artist": "백현 (BAEKHYUN)",
+			"title": "Diamond",
+			"rank": 14,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/05/581/10305581_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "City Lights - The 1st Mini Album - 페이지 이동",
+			"videoId": "ZekCIXCcG7o"
+		},
+		{
+			"artist": "박봄",
+			"title": "봄 (feat. 산다라박)",
+			"rank": 15,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/60/433/10260433_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Spring - 페이지 이동",
+			"videoId": "LtFAjwiuS1U"
+		},
+		{
+			"artist": "헤이즈 (Heize)",
+			"title": "비도 오고 그래서 (Feat. 신용재)",
+			"rank": 16,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/74/454/10074454_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "/// (너 먹구름 비) - 페이지 이동",
+			"videoId": "alEIYhyREmc"
+		},
+		{
+			"artist": "방탄소년단",
+			"title": "Jamais Vu",
+			"rank": 17,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/73/641/10273641_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "MAP OF THE SOUL : PERSONA - 페이지 이동",
+			"videoId": "vBu179-5WHc"
+		},
+		{
+			"artist": "펀치 (Punch)",
+			"title": "럽미 (Love Me)",
+			"rank": 18,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/01/302/10301302_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "럽미 (Love Me) - 페이지 이동",
+			"videoId": "njTFcsujwAI"
+		},
+		{
+			"artist": "양다일",
+			"title": "미안해",
+			"rank": 19,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/23/639/10123639_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "inside - 페이지 이동",
+			"videoId": "qBpHimryzzg"
+		},
+		{
+			"artist": "헤이즈 (Heize)",
+			"title": "SHE`S FINE",
+			"rank": 20,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/63/118/10263118_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "She`s Fine - 페이지 이동",
+			"videoId": "O9_2CktpWaM"
+		},
+		{
+			"artist": "SURAN (수란)",
+			"title": "서핑해 (Surfin')",
+			"rank": 21,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/09/095/10309095_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "서핑해 (Surfin') - 페이지 이동",
+			"videoId": "o-NS909BtVA"
+		},
+		{
+			"artist": "하성운",
+			"title": "BLUE",
+			"rank": 22,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/04/412/10304412_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "BXXX - 페이지 이동",
+			"videoId": "gq0tcM5vCBI"
+		},
+		{
+			"artist": "펀치 (Punch)",
+			"title": "헤어지는 중",
+			"rank": 23,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/03/500/10203500_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "헤어지는 중 - 페이지 이동",
+			"videoId": "ei3quBp_zbA"
+		},
+		{
+			"artist": "박정현",
+			"title": "같이",
+			"rank": 24,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/08/680/10308680_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "The Wonder - 페이지 이동",
+			"videoId": "_AVH9R-AVN0"
+		},
+		{
+			"artist": "오존 (O3ohn)",
+			"title": "우리 사이 은하수를 만들어",
+			"rank": 25,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/94/160/10294160_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "검색어를 입력하세요 WWW OST Part 1 - 페이지 이동",
+			"videoId": "mWwKscJ1eWw"
+		},
+		{
+			"artist": "폴킴",
+			"title": "커피한잔할래요 (빙그레 아카페라 사이즈업 CF 삽입)",
+			"rank": 26,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/06/334/10306334_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "헤어질 걸 알아 - 페이지 이동",
+			"videoId": "6V9sIQPft1s"
+		},
+		{
+			"artist": "아이유",
+			"title": "팔레트 (Feat. G-DRAGON)",
+			"rank": 27,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/56/666/10056666_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Palette - 페이지 이동",
+			"videoId": "VfSIeff6l3c"
+		},
+		{
+			"artist": "펀치 (Punch)",
+			"title": "밤이 되니까",
+			"rank": 28,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/00/577/10100577_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "밤이 되니까 - 페이지 이동",
+			"videoId": "2o8R_7IcHi8"
+		},
+		{
+			"artist": "DEAN",
+			"title": "instagram",
+			"rank": 29,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/22/929/10122929_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "instagram - 페이지 이동",
+			"videoId": "afE-qZiJONo"
+		},
+		{
+			"artist": "박재범",
+			"title": "All I Wanna Do (K) (Feat. Hoody, Loco)",
+			"rank": 30,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/08/163/10008163_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "EVERYTHING YOU WANTED - 페이지 이동",
+			"videoId": "lT7Q93fy1us"
+		},
+		{
+			"artist": "DEAN",
+			"title": "D (half moon) (Feat. 개코)",
+			"rank": 31,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/74/623/2674623_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "130 mood : TRBL - 페이지 이동",
+			"videoId": "RLkcf4bOfac"
+		},
+		{
+			"artist": "SURAN (수란)",
+			"title": "오늘 취하면 (Feat. 창모) (Prod. SUGA)",
+			"rank": 32,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/58/598/10058598_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "WINE - 페이지 이동",
+			"videoId": "MHmKx-QFIr4"
+		},
+		{
+			"artist": "박재범",
+			"title": "All Day (Flex) (Feat. HAON (김하온) & 염따) (Prod. By OkayJJack)",
+			"rank": 33,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/02/579/10302579_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Nothing Matters - 페이지 이동",
+			"videoId": "clekevuSDQk"
+		},
+		{
+			"artist": "Crush",
+			"title": "Beautiful",
+			"rank": 34,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/24/106/10024106_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "도깨비 OST Part 4 - 페이지 이동",
+			"videoId": "b2tN5M2v-Kw"
+		},
+		{
+			"artist": "헤이즈 (Heize)",
+			"title": "그러니까 (Feat. Colde)",
+			"rank": 35,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/63/118/10263118_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "She`s Fine - 페이지 이동",
+			"videoId": "cAtDocQRp-M"
+		},
+		{
+			"artist": "어반자카파",
+			"title": "목요일 밤 (Feat. 빈지노)",
+			"rank": 36,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/027/05/941/2705941_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "목요일 밤 - 페이지 이동",
+			"videoId": "MifyxPL4yQ4"
+		},
+		{
+			"artist": "아이유",
+			"title": "사랑이 잘 (With 오혁)",
+			"rank": 37,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/52/968/10052968_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "사랑이 잘 - 페이지 이동",
+			"videoId": "dMn509ddAkc"
+		},
+		{
+			"artist": "백예린",
+			"title": "스며들기 좋은 오늘",
+			"rank": 38,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/82/644/10282644_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "A-TEEN2 Part.1 - 페이지 이동",
+			"videoId": "5gF6r-cYbAE"
+		},
+		{
+			"artist": "백예린",
+			"title": "Bye bye my blue",
+			"rank": 39,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/92/170/2692170_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Bye bye my blue - 페이지 이동",
+			"videoId": "f1ta5iHqmLc"
+		},
+		{
+			"artist": "죠지",
+			"title": "Boat",
+			"rank": 40,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/11/920/10111920_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Boat - 페이지 이동",
+			"videoId": "OWL1RNX7p90"
+		},
+		{
+			"artist": "헤이즈 (Heize)",
+			"title": "첫눈에",
+			"rank": 41,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/33/243/10233243_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "첫눈에 - 페이지 이동",
+			"videoId": "yfd3bSkh_zo"
+		},
+		{
+			"artist": "백예린",
+			"title": "야간비행 (魔女の花)",
+			"rank": 42,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/62/378/10262378_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Our love is great - 페이지 이동",
+			"videoId": "FIsCYzu_1Gc"
+		},
+		{
+			"artist": "이하이",
+			"title": "한숨",
+			"rank": 43,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/71/866/2671866_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "SEOULITE - 페이지 이동",
+			"videoId": "vakcSQTSvd4"
+		},
+		{
+			"artist": "Crush",
+			"title": "잊어버리지마 (Feat. 태연)",
+			"rank": 44,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/63/424/2663424_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "잊어버리지마 - 페이지 이동",
+			"videoId": "TcytstV1_XE"
+		},
+		{
+			"artist": "지코 (ZICO)",
+			"title": "SoulMate (Feat. 아이유)",
+			"rank": 45,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/89/402/10189402_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "SoulMate - 페이지 이동",
+			"videoId": "rqW7xv8wk5w"
+		},
+		{
+			"artist": "Crush",
+			"title": "Oasis (Feat. ZICO)",
+			"rank": 46,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/023/27/886/2327886_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Oasis - 페이지 이동",
+			"videoId": "QuPO3n01qSg"
+		},
+		{
+			"artist": "나얼",
+			"title": "바람기억",
+			"rank": 47,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/021/50/856/2150856_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Principle Of My Soul - 페이지 이동",
+			"videoId": "-iZ5LCO32qM"
+		},
+		{
+			"artist": "하성운",
+			"title": "라이딩 (Riding) (Feat. 개코)",
+			"rank": 48,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/94/179/10294179_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "라이딩 (Riding) - 페이지 이동",
+			"videoId": "GiJTNExEOpg"
+		},
+		{
+			"artist": "어반자카파",
+			"title": "그때의 나, 그때의 우리",
+			"rank": 49,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/08/597/10108597_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "그때의 나, 그때의 우리 - 페이지 이동",
+			"videoId": "LH3cejOTXoY"
+		},
+		{
+			"artist": "BIGBANG",
+			"title": "꽃 길",
+			"rank": 50,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/47/314/10147314_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "꽃 길 - 페이지 이동",
+			"videoId": "fo4-P7dQ6mk"
+		},
+		{
+			"artist": "Crush",
+			"title": "어떻게 지내",
+			"rank": 51,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/06/417/10006417_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "wonderlust - 페이지 이동",
+			"videoId": "hGSOh1TYv14"
+		},
+		{
+			"artist": "거미",
+			"title": "친구라도 될 걸 그랬어",
+			"rank": 52,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/000/26/396/26396_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Like Them - 페이지 이동",
+			"videoId": "4yev7jgecZw"
+		},
+		{
+			"artist": "세븐틴",
+			"title": "Home",
+			"rank": 53,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/44/395/10244395_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "SEVENTEEN 6TH MINI ALBUM `YOU MADE MY DAWN` - 페이지 이동",
+			"videoId": "GjDiXJV7jCU"
+		},
+		{
+			"artist": "린",
+			"title": "...사랑했잖아...",
+			"rank": 54,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/000/34/289/34289_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Can U See The Bright - 페이지 이동",
+			"videoId": "dXJnN9uP2o4"
+		},
+		{
+			"artist": "DPR CREAM",
+			"title": "Color Drive",
+			"rank": 55,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/03/757/10303757_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "The Voyager 737 - 페이지 이동",
+			"videoId": "ouI7yRvj_54"
+		},
+		{
+			"artist": "백예린",
+			"title": "우주를 건너",
+			"rank": 56,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/53/573/2653573_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "FRANK - 페이지 이동",
+			"videoId": "jgOSfLBShhw"
+		},
+		{
+			"artist": "나얼",
+			"title": "기억의 빈자리",
+			"rank": 57,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/15/433/10115433_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "기억의 빈자리 - 페이지 이동",
+			"videoId": "BXhDz6FJB6w"
+		},
+		{
+			"artist": "수지 (SUZY), 백현 (BAEKHYUN)",
+			"title": "Dream (Prod. by 박근태)",
+			"rank": 58,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/60/715/2660715_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Dream - 페이지 이동",
+			"videoId": "WfYgbFBFe1E"
+		},
+		{
+			"artist": "죠지",
+			"title": "camping everywhere",
+			"rank": 59,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/06/733/10306733_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Dingo X 죠지 - 페이지 이동",
+			"videoId": "3RmGluua7JA"
+		},
+		{
+			"artist": "소유 (SOYOU), 정기고",
+			"title": "썸 (Feat. 릴보이 Of 긱스)",
+			"rank": 60,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/022/30/890/2230890_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "썸 - 페이지 이동",
+			"videoId": "p_1ypvwxiSw"
+		},
+		{
+			"artist": "박재범",
+			"title": "YACHT (k) (Feat. Sik-K)",
+			"rank": 61,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/80/099/10080099_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "YACHT - 페이지 이동",
+			"videoId": "97BN8Fq2WSQ"
+		},
+		{
+			"artist": "G-DRAGON",
+			"title": "무제(無題) (Untitled, 2014)",
+			"rank": 62,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/69/644/10069644_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "권지용 - 페이지 이동",
+			"videoId": "0AAkXCsgPwY"
+		},
+		{
+			"artist": "모트 (Motte)",
+			"title": "도망가지마",
+			"rank": 63,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/04/722/10204722_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "A-TEEN Part.4 - 페이지 이동",
+			"videoId": "BlIjyLozT24"
+		},
+		{
+			"artist": "정인",
+			"title": "장마",
+			"rank": 64,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/012/34/952/1234952_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Melody Remedy - 페이지 이동",
+			"videoId": "weqPom5x9YI"
+		},
+		{
+			"artist": "빅마마",
+			"title": "체념",
+			"rank": 65,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/000/27/516/27516_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Like The Bible - 페이지 이동",
+			"videoId": "XqWQzZESCYw"
+		},
+		{
+			"artist": "종현 (JONGHYUN)",
+			"title": "Lonely (Feat. 태연)",
+			"rank": 66,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/57/543/10057543_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "종현 소품집 `이야기 Op.2` - 페이지 이동",
+			"videoId": "c4VO_pS9erQ"
+		},
+		{
+			"artist": "에일리",
+			"title": "LOVE (Feat. 첸 (CHEN))",
+			"rank": 67,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/02/525/10302525_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "butterFLY - 페이지 이동",
+			"videoId": "vHWNokdi87w"
+		},
+		{
+			"artist": "브라운 아이즈",
+			"title": "벌써 일년",
+			"rank": 68,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/000/02/393/2393_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Brown Eyes - 페이지 이동",
+			"videoId": "-sVo6NWwK_o"
+		},
+		{
+			"artist": "DEAN",
+			"title": "넘어와 (Feat. 백예린)",
+			"rank": 69,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/39/617/10039617_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "limbo - 페이지 이동",
+			"videoId": "D2sMg8mCHds"
+		},
+		{
+			"artist": "SOLE (쏠)",
+			"title": "RIDE (Feat. THAMA)",
+			"rank": 70,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/08/359/10108359_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "RIDE - 페이지 이동",
+			"videoId": "PsIMSIh_snM"
+		},
+		{
+			"artist": "나얼",
+			"title": "같은 시간 속의 너",
+			"rank": 71,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/023/02/870/2302870_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "브라운 아이드 소울 싱글 프로젝트 1st. 같은 시간 속의 너 By 나얼 - 페이지 이동",
+			"videoId": "PerZiSYKslM"
+		},
+		{
+			"artist": "박재범",
+			"title": "Yummy (Feat. Crush) (Prod. By Cha Cha Malone)",
+			"rank": 72,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/02/579/10302579_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Nothing Matters - 페이지 이동",
+			"videoId": "qIAUSNOVoDY"
+		},
+		{
+			"artist": "백예린",
+			"title": "내가 날 모르는 것처럼 (Feat. 카더가든)",
+			"rank": 73,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/62/378/10262378_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Our love is great - 페이지 이동",
+			"videoId": "3xcIJAWchdk"
+		},
+		{
+			"artist": "양다일, 정키",
+			"title": "우린 알아",
+			"rank": 74,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/023/06/771/2306771_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "우린 알아 - 페이지 이동",
+			"videoId": "KCfKtDEp3lY"
+		},
+		{
+			"artist": "하성운",
+			"title": "블루메이즈 (Bluemaze)",
+			"rank": 75,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/04/412/10304412_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "BXXX - 페이지 이동",
+			"videoId": "yb5X2JJJseA"
+		},
+		{
+			"artist": "Crush",
+			"title": "Cereal (Feat. ZICO)",
+			"rank": 76,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/84/916/10184916_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "wonderlost - 페이지 이동",
+			"videoId": "vB200CnY3k4"
+		},
+		{
+			"artist": "40",
+			"title": "듣는편지",
+			"rank": 77,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/021/73/468/2173468_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "듣는편지 - 페이지 이동",
+			"videoId": "a5oeNwoCi-s"
+		},
+		{
+			"artist": "Crush",
+			"title": "잊을만하면",
+			"rank": 78,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/63/835/10163835_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "잊을만하면 - 페이지 이동",
+			"videoId": "uAC6JbXi0kk"
+		},
+		{
+			"artist": "나얼",
+			"title": "귀로",
+			"rank": 79,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/000/47/037/47037_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Back To The Soul Flight - 페이지 이동",
+			"videoId": "TPTnYq1fvNI"
+		},
+		{
+			"artist": "폴킴",
+			"title": "길",
+			"rank": 80,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/99/694/10099694_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "정규 1집 Part.1 `길` - 페이지 이동",
+			"videoId": "wjojn5BZPLc"
+		},
+		{
+			"artist": "식케이 (Sik-K)",
+			"title": "Is It Love? (Feat. MOON) (Prod. GXXD)",
+			"rank": 81,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/00/600/10300600_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Is It Love? - 페이지 이동",
+			"videoId": "h24YGEiMC1s"
+		},
+		{
+			"artist": "브라운 아이드 소울",
+			"title": "정말 사랑했을까",
+			"rank": 82,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/000/32/695/32695_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Soul Free - 페이지 이동",
+			"videoId": "JIDdms9IDig"
+		},
+		{
+			"artist": "Babylon (베이빌론)",
+			"title": "비는 내리고 음악은 흐르고 (Feat. Wall E)",
+			"rank": 83,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/01/170/10301170_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "비는 내리고 음악은 흐르고 - 페이지 이동",
+			"videoId": "_NQpLH8CiyM"
+		},
+		{
+			"artist": "Zion.T",
+			"title": "꺼내 먹어요",
+			"rank": 84,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/023/19/240/2319240_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Eat - 페이지 이동",
+			"videoId": "hF5trDDG5L0"
+		},
+		{
+			"artist": "CHEEZE (치즈)",
+			"title": "우린 어디에나",
+			"rank": 85,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/86/982/10286982_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Plate - 페이지 이동",
+			"videoId": "tuxXte48nlA"
+		},
+		{
+			"artist": "마마무(Mamamoo)",
+			"title": "Wind flower",
+			"rank": 86,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/27/568/10227568_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "BLUE;S - 페이지 이동",
+			"videoId": "NtB0YK_vfuc"
+		},
+		{
+			"artist": "CHEEZE (치즈)",
+			"title": "어떻게 생각해",
+			"rank": 87,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/91/419/2691419_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Q - 페이지 이동",
+			"videoId": "Frs7j21R4Cc"
+		},
+		{
+			"artist": "헤이즈 (Heize)",
+			"title": "저 별",
+			"rank": 88,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/20/656/10020656_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "저 별 - 페이지 이동",
+			"videoId": "XLJIwEnQbd0"
+		},
+		{
+			"artist": "소수빈",
+			"title": "난 행복해",
+			"rank": 89,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/01/304/10301304_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "파도야 - 페이지 이동",
+			"videoId": "qsuCQe3HvRw"
+		},
+		{
+			"artist": "로시 (Rothy)",
+			"title": "BEE",
+			"rank": 90,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/90/465/10290465_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "COLOR OF ROTHY - 페이지 이동",
+			"videoId": "3dfI9kmw6Ow"
+		},
+		{
+			"artist": "로시 (Rothy)",
+			"title": "구름",
+			"rank": 91,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/07/851/10207851_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "뷰티 인사이드 OST Part.1 - 페이지 이동",
+			"videoId": "oSuElDuA1qo"
+		},
+		{
+			"artist": "박봄",
+			"title": "4시 44분 (feat. 휘인 of 마마무)",
+			"rank": 92,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/80/177/10280177_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "re:BLUE ROSE - 페이지 이동",
+			"videoId": "fzNmTv5V4K4"
+		},
+		{
+			"artist": "Crush",
+			"title": "가끔",
+			"rank": 93,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/022/59/487/2259487_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Crush On You - 페이지 이동",
+			"videoId": "2wfiK6vXVJk"
+		},
+		{
+			"artist": "DEAN",
+			"title": "21",
+			"rank": 94,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/74/623/2674623_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "130 mood : TRBL - 페이지 이동",
+			"videoId": "0oKZ2m98Eqk"
+		},
+		{
+			"artist": "폴킴",
+			"title": "편지",
+			"rank": 95,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/75/321/2675321_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "The 1st Mini Album `Song Diary` - 페이지 이동",
+			"videoId": "JbMK5wmYsa0"
+		},
+		{
+			"artist": "지코 (ZICO)",
+			"title": "너는 나 나는 너",
+			"rank": 96,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/63/674/2663674_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Break Up 2 Make Up - 페이지 이동",
+			"videoId": "sgpLAbL_vT0"
+		},
+		{
+			"artist": "태용 (TAEYONG)",
+			"title": "Long Flight",
+			"rank": 97,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/08/664/10308664_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "Long Flight - SM STATION - 페이지 이동",
+			"videoId": "NmD39TetRQU"
+		},
+		{
+			"artist": "박재범",
+			"title": "좋아 (JOAH)",
+			"rank": 98,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/021/81/104/2181104_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "JOAH - 페이지 이동",
+			"videoId": "Ye-mbO9KOn0"
+		},
+		{
+			"artist": "PL (피엘)",
+			"title": "MALIBU",
+			"rank": 99,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/96/412/10296412_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "MALIBU - 페이지 이동",
+			"videoId": "E-YXcHtyn2c"
+		},
+		{
+			"artist": "화요비",
+			"title": "그런일은",
+			"rank": 100,
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/000/00/111/111_500.jpg/melon/resize/120/quality/80/optimize",
+			"imgalt": "My All - 페이지 이동",
+			"videoId": "EE73SI7iqjs"
+		}
+	]
+}

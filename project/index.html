@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="ko_kr">
+
+<head>
+    <title>SoundsHub</title>
+    <meta charset="utf-8">
+    <meta content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/CSS/before.css?ver=1" type="text/css" rel="stylesheet">
+    <link href="http://fonts.googleapis.com/earlyaccess/jejugothic.css" rel="stylesheet">
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <style>
+
+    </style>
+</head>
+
+<body id="not-log-in">
+
+
+
+    <?php
+        session_start();    
+        if(isset($_SESSION['sess_userid'])){
+            echo "<script> alert('이미 서비스를 이용중입니다. 메인 화면으로 이동합니다');</script>";
+            echo "<meta http-equiv='refresh' content='0;url=main.html'>";
+            exit;
+        }
+        ?>
+
+    <!-- 로그인하지 않았을 시 보여지는 영역 -->
+    <!-- 회원가입 폼 수정 0805 -->
+    <div class="modal" id=upload_>
+
+        <div class="container">
+            <table class="table1 table-striped">
+                <tbody>
+                    <tr>
+                        <td colspan="1">
+                            <form action="/php/upload.php" class="well form-horizontal" id="enrolform" method="post"
+                                enctype="multipart/form-data">
+                                <fieldset>
+                                    <div class="form-group">
+                                        <label class="col-md-4 control-label">아이디</label>
+                                        <div class="col-md-8 inputGroupContainer">
+                                            <div class="input-group"><span class="input-group-addon"><i
+                                                        class="glyphicon glyphicon-user"></i></span>
+                                                <input type="text" name="id" id="id" placeholder="숫자,영문 대소문자로 4~19자"
+                                                    class="form-control" required="true"></div>
+                                        </div>
+
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="col-md-4 control-label">비밀번호 확인</label>
+                                        <div class="col-md-8 inputGroupContainer">
+                                            <div class="input-group"><span class="input-group-addon"><i
+                                                        class="glyphicon glyphicon-star-empty"></i></span>
+                                                <input type="password" name="pw" id="pw_" placeholder="영문 대소문자, 숫자,특수문자8~16자"
+                                                    class="form-control" required="true" required>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="col-md-4 control-label">비밀번호 확인</label>
+                                        <div class="col-md-8 inputGroupContainer">
+                                            <div class="input-group"><span class="input-group-addon"><i
+                                                        class="glyphicon glyphicon-star"></i></span>
+                                                <input type="password" name="pw2" id="pwcheck" placeholder="pass word"
+                                                    class="form-control" required="true" required>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="col-md-4 control-label">성별</label>
+                                        <div class="button_sex">
+                                            <div class="input-group"><span><i></i></span>
+                                                <input type="radio" name="sex" value="남자" id="male_" required
+                                                    checked="checked">
+                                                <span style="margin-right: 10px">남자</span> <input type="radio"
+                                                    name="sex" value="여자" id="female_">
+                                                <span>여자</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="col-md-4 control-label">이메일</label>
+                                        <div class="col-md-8 inputGroupContainer">
+                                            <div class="input-group"><span class="input-group-addon"><i
+                                                        class="glyphicon glyphicon-envelope"></i></span>
+                                                <input type="email" name="email" id="email_" placeholder="정확히 입력해주세요."
+                                                    class="form-control" required></div>
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="col-md-4 control-label">생일</label>
+                                        <div class="col-md-8 inputGroupContainer">
+                                            <div class="input-group"><span class="input-group-addon"><i
+                                                        class="glyphicon glyphicon-globe"></i></span>
+                                                <input type="date" name="birth" id="birth_" class="form-control"
+                                                    placeholder="생일" required></div>
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="col-md-4 control-label">이름</label>
+                                        <div class="col-md-8 inputGroupContainer">
+                                            <div class="input-group"><span class="input-group-addon"><i
+                                                        class="glyphicon glyphicon-book"></i></span>
+                                                <input type="text" name="name" class="form-control" placeholder="이름"
+                                                    id="name_" required></div>
+                                        </div>
+                                    </div>
+				    <p style="color:black"><b>SoundsHub</b>의 <a href="./privacy.html">개인정보 처리방침</a></p><br>
+                                    <input type="checkbox" name="agree" id="agree_" onclick="check()" required>
+                                    <p id="etc" style="color:black">본 서비스의 가입을 위해 개인정보 제공을 동의합니다.</p>
+                                    <div class="subb">
+                                        <input id="sub_" type="submit" value="가입하기"><br>
+                                    </div>
+
+                                </fieldset>
+                            </form>
+                        </td>
+
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+    </div>
+
+    <div id="jb-container">
+        <div id="jb-header">
+            <h1>SoundsHub</h1>
+        </div>
+        <div id="jb-content">
+            <div class="loginformdiv">
+                <form method="POST">
+                    <input type="text" class="pu_" name="ID" id="idinput" placeholder="아이디를 입력해주세요."><br><br>
+                    <input type="password" class="pu_" name="PW" id="password" placeholder="비밀번호를 입력해주세요."><br><br>
+                    <input type="submit" class="in" name="submit" value="로그인" id="logins" formaction="/php/submit.php">
+
+                    <!-- <input type="submit" name="submit" value="Register" id="gaip" formaction="./register.php"> -->
+                    <button type="button" class="in" onclick="modal(this.id)">회원가입</button><br><br>
+                    <input type="submit" class="in" value="아이디/비밀번호 찾기" id="findinform"
+                        formaction="/php/member_find.php">
+                </form>
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <!------ Include the above in your HEAD tag ---------->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            </div>
+        </div>
+
+
+    </div>
+    <script type="text/javascript" src="/JavaScript/Login/before.js?ver=1"></script>
+</body>
+
+</html>

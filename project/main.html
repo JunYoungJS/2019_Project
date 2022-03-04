@@ -1,0 +1,241 @@
+<!doctype html>
+<html lang="ko">
+
+<head>
+    <!-- 페이지 캐싱 방지 태그 -->
+    <meta http-equiv="Expires" content="-1">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Cache-Control" content="No-Cache">
+    <meta charset="utf-8">
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://soundshub.cf">
+    <title>SoundsHub</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
+    <meta content="text/html; charset=UTF-8">
+    <link type="text/css" href="/CSS/main.css?ver=1" rel="stylesheet">
+    <link href="http://fonts.googleapis.com/earlyaccess/jejugothic.css" rel="stylesheet">
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+</head>
+
+<body>
+    
+    <?php
+        session_start();    
+        if(!isset($_SESSION['sess_userid'])){
+            echo "<script> alert('로그인이 필요한 서비스입니다.');</script>";
+            echo "<meta http-equiv='refresh' content='0;url=/index.html'>";
+            exit;
+        }
+        ?>
+
+    <!-- 0803로그아웃 기능 구현을 위해 php숏코드 작성 서버쪽도 php.ini/httpd.conf 파일 수정해야함 -->
+
+    <nav >
+        <div class="container">
+            <h1 onclick="window.location.reload()">SoundsHub</h1>
+
+        </div>
+    </nav>
+
+    
+        <div id="nav_top">
+            <div>
+                <img title="듣고싶은 노래를 검색을 통해 추가할 수 있습니다." onclick="modal(this.id)" class="search-btn" id="sbtn"
+                    src="/img/search.png">
+                <span class="nav-link" id='se' class="lod">검색</span>
+            </div>
+            <div>
+                <img type="submit" id="log" class="logout-btns" src="/img/logout.png" onclick="logout_ing()">
+                <span class="nav-link" id='ou' class="lod">로그아웃</span>
+            </div>
+            <div>
+                <img id="mypage" class="mypage-btns" src="/img/person_white.png" onclick="my_page()">
+                <span class="nav-link" id="myp" class="lod">내 정보</span>
+            </div>
+        </div>
+ 
+
+
+    <div id="jb-container">
+
+        <p id="popular-chart">인기차트</p>
+        <div id="list">
+            <!-- 0730 class 추가  L_bu R_bu  추가-->
+            <img id="L_bu" onclick="L_nextbut()" src="/img/next1.png">
+            <img id="bu_1" onclick="list1()" src="/img/next1.png">
+            <!-- <a data-toggle="collapse" class="collapsed" href="#collapseExample" aria-expanded="false" aria-controls="collapseExample"> -->
+            <div class="liist_ list1 m_list1" id="a1_" onclick="show_melon_apop_chart(this.id)" id="play">해외 팝</div>
+            <div class="liist_ list1 m_list1" id="a2_" onclick="show_melon_arap_chart(this.id)" id="play">해외 랩/힙합</div>
+            <div class="liist_ list1 m_list1" id="a3_" onclick="show_melon_arock_chart(this.id)" id="play">해외 록/메탈</div>
+            <div class="liist_ list1 m_list1" id="a4_" onclick="show_melon_arnb_chart(this.id)" id="play">해외 R&B</div>
+            <div class="liist_ list1 m_list2" id="a5_" onclick="show_melon_aelec_chart(this.id)" id="play">해외 일렉트로닉
+            </div>
+            <div class="liist_ list1 m_list2" id="a6_" onclick="show_melon_afolk_chart(this.id)" id="play">해외 포크/블루스
+            </div>
+            <div class="liist_ list1 m_list2" id="a7_" onclick="show_melon_top100_chart(this.id)" id="play">Top 100
+            </div>
+            <div class="liist_ list2 m_list2" id="a8_" onclick="show_melon_bal_chart(this.id)" id="play">발라드</div>
+            <div class="liist_ list2 m_list3" id="a9_" onclick="show_melon_dance_chart(this.id)" id="play">댄스</div>
+            <div class="liist_ list2 m_list3" id="a10_" onclick="show_melon_hiphop_chart(this.id)" id="play">랩/힙합</div>
+            <div class="liist_ list2 m_list3" id="a11_" onclick="show_melon_rnb_chart(this.id)" id="play">R&B</div>
+            <div class="liist_ list2 m_list3" id="a12_" onclick="show_melon_inde_chart(this.id)" id="play">인디</div>
+            <div class="liist_ list2 m_list4" id="a13_" onclick="show_melon_rock_chart(this.id)" id="play">록/메탈</div>
+            <div class="liist_ list2 m_list4" id="a14_" onclick="show_melon_folk_chart(this.id)" id="play">포크/블루스</div>
+            </a>
+            <img id="bu_2" id="li1" onclick="list2()" src="/img/next.png">
+            <img id="R_bu" onclick="R_nextbut()" src="/img/next.png">
+
+        </div>
+        <!-- <div class="panel-collapse collapse in" role="tabpanel" id="collapseExample"> -->
+            
+    <div id="multi-area">
+            <button class="btn btn-primary" id=multi-select value="MultiOn">다중선택</button>
+            <button class="btn btn-primary" id=total-select value="totalOn">전체선택</button>
+            <button class="btn btn-primary" id=multi-add>담기</button>
+            </div>
+
+
+        <div id="jb-content">
+
+            <section class="list-layout">
+                <table class="songs-table">
+                    <thead class="songtable-head">
+                        <tr>
+                            <!-- style 추가 0801 -->
+                            <td colspan="6" style="border-bottom: none;">
+
+                                <h2 id="h2_1"></h2>
+                            </td>
+                     
+
+                        </tr>
+                        <tr>
+                            <td id="rankh">
+
+                            </td>
+                            <td></td>
+                            <td id="artisth">
+
+                            </td>
+                            <td id="titleh">
+
+                            </td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                    </thead>
+                    <tbody id="chartlist-ul" class="chartlist-ul">
+
+                    </tbody>
+
+                </table>
+            </section>
+        </div>
+        <section id="youtube-side">
+            <h2 style="margin-bottom: 7px">재생목록</h2>
+            <!-- 내 재생목록 버튼 추가 0811 -->
+            <button class="btn btn-primary" title="여기에서 나만의 재생목록을 관리할 수 있습니다." id="myplaylist_btn" onclick="myplaylist_on()">내
+                재생목록</button><button class="btn btn-primary btn123" id="deleteAll_btn" onclick="deleteAll()">전체 삭제</button>
+            <br><br>
+            <ul id="user-playlist">
+
+
+
+
+
+            </ul>
+        </section>
+        <!-- </div> -->
+        <div id="jb-footer">
+            <section class="ongoing-player">
+                <!-- 뮤직 타이틀 위치변경 0730 -->
+                <p id='music-title'></p>
+
+                <img title="현재 재생 목록을 전체,한곡 반복으로 들어보세요." id="repeat-btn" class="control re_ran"
+                    src="/img/repeat_off.png">
+                <input id="ina" type="range" class="timeBar">
+                <img title="현재 재생목록의 노래를 무작위로 재생합니다." id="random-btn" class="control re_ran" src="/img/random_off.png">
+
+                <div class="time">
+                    <span class=time-bar></span>
+                </div>
+                <div b_c_b>
+                    <img class="control button_play" onclick="L_bu()" src="/img/arrow1.png">
+                    <img class="button_play" id="control" onclick="ControlVideo()" src="/img/play.png">
+                    <img class="control button_play" onclick="R_bu()" src="/img/arrow2.png">
+                    <!-- <input id="ver1" type="range" orient="vertical" value="50" min="0" max="100"
+                    onChange="soundControl(this.value);" /> -->
+                </div>
+
+
+            </section>
+
+            <div id="pl1">
+            </div>
+            <div class="modal" id=upload_>
+                <div class="upload1_">
+                    <input type="text" value="" id="sin" placeholder="검색">
+                    <img onclick="modal(this.id)" class="search-btn" id="sbtn" src="/img/search.png">
+                </div>
+            </div>
+            <script>
+                var tag = document.createElement('script');
+                tag.src = "https://www.youtube.com/iframe_api";
+                var firstScriptTag = document.getElementsByTagName('script')[0];
+                firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+            </script>
+            <!-- 내 재생목록 모달박스 0811 -->
+            <div id="myplaylistmodal">
+                <div id="myplaylistmodalcontent">
+                    <h2 style="
+                        position: relative;
+                        top: 19px;
+                        ">내 재생목록</h2>                    <br>
+                    <div class="playlistsaving">
+                        <span style="background-color: transparent;">제목</span>
+                        <input id="listsavetitleinput" type="text" size="35">
+                        <button id="listsave_btn" onclick="savethislist()" title="현재 재생목록에 담긴 곡들을 저장합니다.">저장</button>
+                    </div>
+
+                    <ul id="listofmyplaylist">
+                        <?php
+                            session_start();
+                            $connect = mysqli_connect('localhost', 'root', 'akejvkej123', 'first');
+                            mysqli_set_charset($connect, 'utf8');
+                            
+                            if (mysqli_connect_errno()) {
+                                echo "Failed to connect MySQL: " . mysqli_connect_error();
+                            }
+                        $checkTable = mysqli_query($connect, "SHOW TABLES LIKE '" . $_SESSION['sess_userid'] . "%'");
+                        
+                        while($row_go = mysqli_fetch_row($checkTable)){
+                            $tablename = explode('_', $row_go[0]);
+                            echo "<li class='playli'><span class='mypl' onclick='get_thisplaylist(event)'>".$tablename[1]."</span><button class='mypldltbtn btn btn-primary' onclick='playlist_delete(event)'>X</button></li>";
+                        }
+                        ?>
+
+
+                    </ul>
+
+                </div>
+            </div>
+
+
+            <script type="text/javascript" src="/JavaScript/Desktop/front.js?ver=1"></script>
+            <script type="text/javascript" src="/JavaScript/Desktop/play.js?ver=1"></script>
+            <script type="text/javascript" src="/JavaScript/Desktop/serch.js?ver=1"></script>
+
+            <!-- Bootstrap core JavaScript -->
+            <script src="/vendor/jquery/jquery.min.js"></script>
+            <script src="/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+        </div>
+    </div>
+</body>
+
+</html>

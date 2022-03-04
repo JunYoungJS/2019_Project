@@ -1,0 +1,464 @@
+.liist_ {
+  margin: 6px;
+  height: 140px;
+  width: 161px;
+  background-size: 100% 100%;
+  background-repeat: round;
+  margin-left: 17px;
+}
+
+.container-fluid {
+  background-color: black;
+}
+
+.songs-table {
+  color: aqua;
+}
+
+#playbutton {
+  width: 50px;
+}
+
+#listaddbutton {
+  width: 50px;
+}
+
+h3 {
+  font-size: 13px;
+}
+
+h4 {
+  font-size: 15px;
+}
+
+#mypage {
+  width: 30px;
+  cursor: pointer;
+}
+
+#log {
+  width: 30px;
+  cursor: pointer;
+  background-color: black;
+}
+
+#sbtn {
+  width: 30px;
+  cursor: pointer;
+}
+
+td {
+  padding: 0px;
+}
+
+td>img {
+  width: 47px;
+  height: 47px;
+}
+
+.play {
+  width: 32px;
+  margin-right: 8px;
+}
+
+.remove {
+  width: 32px;
+  margin-left: 5px;
+}
+
+#nav_ {
+  background-color: black;
+  z-index: 1;
+  position: fixed;
+  left: -2px;
+  width: 100%;
+}
+
+#user-playlist {
+  padding-left: 0px;
+  overflow: auto;
+  height: 415px;
+}
+
+.item {
+  width: 100%;
+  padding-left: 0px;
+  display: -webkit-box;
+  margin-bottom: 14px;
+}
+
+.info {
+  width: 76%;
+  display: block;
+  font-size: initial;
+  border-bottom: 1px solid;
+  overflow: scroll;
+}
+
+#myplaylistmodal {
+  display: none;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+#myplaylistmodalcontent {
+  height: 465px;
+  width: 334px;
+  background-color: black;
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 1px solid;
+  border-radius: 39px;
+  text-align: center;
+}
+
+#myplaylistmodalcontent>h2 {
+  background-color: transparent;
+}
+
+#myplaylist_btn {
+  float: left;
+  border: none;
+}
+
+#deleteAll_btn {
+  float: right;
+  border: none;
+}
+
+#youtube-side>h2 {
+  text-align: center;
+}
+
+#listsave_btn {
+  border: none;
+  float: right;
+  background-color: transparent;
+}
+
+#listofmyplaylist {
+  background-color: transparent;
+  width: 100%;
+  height: 85%;
+  /* border: 1px solid white; */
+}
+
+.playlistsaving {
+  background-color: transparent;
+  width: 100%;
+}
+
+#listsavetitleinput {
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid white;
+  text-indent: 5px;
+}
+
+.ongoing-player {
+  background-color: black;
+  position: fixed;
+  top: 77%;
+  width: 100%;
+  height: 205px;
+}
+
+.control {
+  width: 22px;
+  background-size: contain;
+  background-repeat: round;
+  margin-left: 5px;
+}
+
+.button_play {
+  width: 50px;
+}
+
+#ina {
+  height: 19px;
+  -webkit-appearance: none;
+  margin: 10px 0;
+  width: 79%;
+  background-color: black;
+}
+
+#ina:focus {
+  outline: none;
+}
+
+#ina::-webkit-slider-runnable-track {
+  width: 100%;
+  height: 10px;
+  cursor: pointer;
+  animate: 0.2s;
+  box-shadow: 1px 1px 1px #000000;
+  background: #3071A9;
+  border-radius: 5px;
+  border: 1px solid #000000;
+}
+
+#ina::-webkit-slider-thumb {
+  box-shadow: 1px 1px 1px #000000;
+  border: 1px solid #000000;
+  height: 11px;
+  width: 15px;
+  border-radius: 5px;
+  background: #FFFFFF;
+  cursor: pointer;
+  -webkit-appearance: none;
+  margin-top: -1.5px;
+}
+
+#ina:focus::-webkit-slider-runnable-track {
+  background: #3071A9;
+}
+
+#ina::-moz-range-track {
+  width: 100%;
+  height: 10px;
+  cursor: pointer;
+  animate: 0.2s;
+  box-shadow: 1px 1px 1px #000000;
+  background: #3071A9;
+  border-radius: 5px;
+  border: 1px solid #000000;
+}
+
+#ina::-moz-range-thumb {
+  box-shadow: 1px 1px 1px #000000;
+  border: 1px solid #000000;
+  height: 11px;
+  width: 15px;
+  border-radius: 5px;
+  background: #FFFFFF;
+  cursor: pointer;
+}
+
+#ina::-ms-track {
+  width: 100%;
+  height: 10px;
+  cursor: pointer;
+  animate: 0.2s;
+  background: transparent;
+  border-color: transparent;
+  color: transparent;
+}
+
+#ina::-ms-fill-lower {
+  background: #3071A9;
+  border: 1px solid #000000;
+  border-radius: 10px;
+  box-shadow: 1px 1px 1px #000000;
+}
+
+#ina::-ms-fill-upper {
+  background: #3071A9;
+  border: 1px solid #000000;
+  border-radius: 10px;
+  box-shadow: 1px 1px 1px #000000;
+}
+
+#ina::-ms-thumb {
+  margin-top: 1px;
+  box-shadow: 1px 1px 1px #000000;
+  border: 1px solid #000000;
+  height: 11px;
+  width: 15px;
+  border-radius: 5px;
+  background: #FFFFFF;
+  cursor: pointer;
+}
+
+#ina:focus::-ms-fill-lower {
+  background: #3071A9;
+}
+
+#ina:focus::-ms-fill-upper {
+  background: #3071A9;
+}
+
+body {
+  background-color: black;
+  padding-top: 0px;
+  color: white;
+}
+
+#music-title {
+  text-align: center;
+  margin-bottom: 0px
+}
+
+.time {
+  height: 36px;
+  text-align: center;
+}
+
+#youtube-side {
+  height: 490px;
+  z-index: 2;
+}
+
+#multi-area {
+  display: flex;
+}
+
+#multi-area1 {
+  display: flex;
+  margin-top: 19px;
+}
+
+#temp {
+  height: 80px;
+}
+
+#temp2 {
+  height: 107px;
+}
+
+li {
+  margin-left: 7px;
+}
+
+.btn-link {
+  font-weight: 406;
+  color: white;
+  text-decoration: none;
+}
+
+#sin {
+  width: 89%;
+  height: 40px;
+  display: inline;
+  background-color: white;
+  /* position: absolute; */
+  /* top: 8%; */
+  /* left: 50%; */
+  /* transform: translate(-50%, -50%); */
+  /* padding: 20px; */
+  color: black;
+  font-size: 21px;
+}
+
+#sbtn {
+  width: 30px;
+  cursor: pointer;
+}
+
+.btn-primary {
+  background-color: #659acd;
+  border: none;
+  padding: 0px;
+  font-size: 13px;
+  width: 81px;
+  height: 32px;
+}
+
+.navbar-toggler {
+  background-color: black;
+}
+
+.container {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.row {
+  width: 99%;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  /* margin-right: -15px; */
+  margin-left: 0px;
+}
+
+td {
+  padding: 0px;
+  border-bottom: 1px solid;
+}
+
+#ui-id-1 {
+  top: 104px;
+  /* width: 376.2px; */
+  /* left: 21px; */
+  /* display: none; */
+}
+
+.mobile2, .mobile3 {
+  display: none;
+}
+
+#bu_L, #bu_R {
+  width: 60px;
+  margin: 6px;
+}
+
+#bu_R {}
+
+#bu_L {
+  visibility: hidden;
+}
+
+#bu_LR {
+  display: flex;
+  position: fixed;
+  bottom: 23%;
+  left: 122px;
+}
+
+#listsavetitleinput {
+  color: white;
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid white;
+  text-indent: 5px;
+  width: 58%;
+}
+
+#listsave_btn {
+  margin-right: 8px;
+  color: white;
+  /* border: none; */
+  float: right;
+  /* background-color: transparent; */
+  display: inline;
+  width: 20%;
+  border: 1px solid;
+  border-color: #007bff;
+}
+
+.playlistsaving {
+  background-color: transparent;
+  width: 100%;
+}
+
+.mypl {
+  background-color: white;
+  color: black;
+}
+
+.mypldltbtn {
+  position: relative;
+  left: 84px;
+  margin: 0px;
+  padding: 0px;
+  width: 33px;
+  height: 28px;
+}
+
+.playli {
+  width: 110%;
+  background-color: white;
+  position: relative;
+  left: -47px;
+  margin: 10px;
+  list-style: inside;
+  cursor: pointer;
+}

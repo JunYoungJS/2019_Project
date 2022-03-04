@@ -1,0 +1,39 @@
+
+/* #info{
+    position: relative;
+    left: 26px;
+} */
+.find{
+    text-align: center;
+    margin-top: 146px;
+}
+/* #info_tabel{
+        position: relative;
+    left: 12%;
+    margin-bottom: 15px;
+} */
+.table_h{
+    width: 46px;
+}
+.table_i{
+    width: 88%;
+}
+.require{
+    text-align: center;
+}
+.secession{
+    text-align: center;
+}
+.input_{
+margin: 6px;
+}
+.nav-link{
+    font-size: 29px;
+    color: yellowgreen;
+}
+.nav__{
+    font-size: 20px;
+}
+.navbar {
+    background-color: black;
+}

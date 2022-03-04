@@ -1,0 +1,85 @@
+body{
+    background-color: #ff9900;
+    font-family: "Nanum Gothic", sans-serif;   
+}
+.top{
+    display: inline-block;
+}
+#p{
+    color: black;
+    font-size: 14px;
+}
+img{
+    width: 35px;
+    margin-left: 50px;
+}
+h1{
+    font-size: 37px;
+}
+.nav{
+    display: inline-block;
+}
+#find_pw{
+    display : none;
+}
+#find_id{
+    display : none;
+}
+.sub{
+    background-color: antiquewhite;
+    /* margin: 0 auto; */
+    color: black;
+    width: 20%;
+    height: 40px;
+    border: none;
+    font-size: 14px;
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+    font-weight: 700;
+    border-radius: 15px;
+    cursor: pointer;
+    position: relative;
+    top: 22px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.field{
+    border: 1px solid white;
+    border-radius: 21px;
+    height: 150px;
+}
+.sub_id{
+top:38px;
+}
+.f_pw{
+    height: 210px;
+}
+.sub_pw{
+    top:20px;
+}
+td{
+    padding-bottom: 14px;
+}
+input{
+    margin-left: 20px;
+}
+#div_nav{
+    height: 56px;
+    margin-left: 24px;
+}
+.nav{
+    border: 1px solid white;
+    width: 100px;
+    height: 21px;
+    text-align: center;
+    border-radius: 12px;
+}
+.main_top{
+    margin-left: 16px;
+    margin-top: 9px;
+}
+#p_{
+    margin-left: 5px;
+}
+html{
+    color: floralwhite;
+}
