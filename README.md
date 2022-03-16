@@ -1,5 +1,9 @@
 # 2019 공모전 Bottom-Up Project (Team 3M) : [SOUNDSHUB](http://soundshub.cf)
 
+## 시연영상 : https://www.youtube.com/watch?v=P26vSfqC5C4
+
+## ![bottomup](https://user-images.githubusercontent.com/100929485/158535597-e4a68327-3c8f-4514-a38a-d3e4a9ed208d.jpeg)
+
 ## Team Member
 
 201302397 문준영  
